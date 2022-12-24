@@ -32,14 +32,11 @@
 
 {"descriptions":"Alerte 24 TV est une de la R.D.Congi.","source":["http://89.163.146.99/ALERTE24-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYxNjAwMDhf/alerte24.jpg","titles":"ALERTE 24 TV"},
 
-
 {"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["http://51.254.199.122:8080/DigitalCongoTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO"},
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://178.33.237.146/rtnc1.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
 {"descriptions":"B-ONE est la chaine de la RDC qui emette a Kinshasa en diffusant des informations, musique et autres....","source":["http://217.182.137.206/b_one.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE TV"},
 
-{"descriptions":"JMK Congo News est la chaine de la diaspora congolais en diffusant des informations, musique et autres....","source":["https://helga.iptv2022.com/JMK_CONGO_NEWS_TV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDNf/congonews.jpeg","titles":"JMK CONGO NEWS"},
-
-{"descriptions":"P-Net TV est une chaine congolaise de divertissement.","source":["http://85.234.131.234:8080/ISI-BROADCAST/PNETTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYxNjAyNDRf/pnet.jpg","titles":"P-NET TV"}
-]}]}
+{"descriptions":"JMK Congo News est la chaine de la diaspora congolais en diffusant des informations, musique et autres....","source":["https://helga.iptv2022.com/JMK_CONGO_NEWS_TV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDNf/congonews.jpeg","titles":"JMK CONGO NEWS"},{"descriptions":"P-Net TV est une chaine congolaise de divertissement.","source":["http://85.234.131.234:8080/ISI-BROADCAST/PNETTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYxNjAyNDRf/pnet.jpg","titles":"P-NET TV"},
+{"descriptions":"P-Net TV est une chaine congolaise de divertissement.","source":["http://85.234.151.122/ISI-BROADCAST/UP1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYxNjAyODFf/lephare.jpg","titles":"LE PHARE TV"}]}]}
