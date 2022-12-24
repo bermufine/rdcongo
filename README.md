@@ -10,7 +10,7 @@
 
 {"descriptions":"Metanoia TV est une chaine chretienne.","source":["http://89.163.146.99/METANOIA-STREAM1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","titles":"METANOIA TV"},{"descriptions":"Amen TV est une chaine chretienne du ministere Amen de Leopold Mutombo.","source":["https://edge21.vedge.infomaniak.com/livecast/ik:amentvsat_4/chunklist_w1424397913.m3u8?spark=12fcec69-a711-4695-ae67-35e6764fac6b&token="],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2ODkyOTlf/Amen.jpeg","titles":"AMEN TV"},
 
-{"descriptions":"LBFD tv elengi ya mbonda ","source":["http://89.163.146.99/LBFD-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYxNjAwMTJf/lbfdtv.jpg","titles":""LBFD TV"},
+{"descriptions":"LBFD tv elengi ya mbonda ","source":["http://89.163.146.99/LBFD-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYxNjAwMTJf/lbfdtv.jpg","titles":"LBFD TV"},
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.254.199.122:8080/RTNC2/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ4ODhf/rtnc2.jpg","titles":"RTNC 2"},
 
@@ -39,4 +39,5 @@
 {"descriptions":"B-ONE est la chaine de la RDC qui emette a Kinshasa en diffusant des informations, musique et autres....","source":["http://217.182.137.206/b_one.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE TV"},
 
 {"descriptions":"JMK Congo News est la chaine de la diaspora congolais en diffusant des informations, musique et autres....","source":["https://helga.iptv2022.com/JMK_CONGO_NEWS_TV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDNf/congonews.jpeg","titles":"JMK CONGO NEWS"},{"descriptions":"P-Net TV est une chaine congolaise de divertissement.","source":["http://85.234.131.234:8080/ISI-BROADCAST/PNETTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYxNjAyNDRf/pnet.jpg","titles":"P-NET TV"},
-{"descriptions":"P-Net TV est une chaine congolaise de divertissement.","source":["http://85.234.151.122/ISI-BROADCAST/UP1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYxNjAyODFf/lephare.jpg","titles":"LE PHARE TV"}]}]}
+
+{"descriptions":"Le Phare TV est une chaine congolaise de divertissement.","source":["http://85.234.151.122/ISI-BROADCAST/UP1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYxNjAyODFf/lephare.jpg","titles":"LE PHARE TV"}]}]}
