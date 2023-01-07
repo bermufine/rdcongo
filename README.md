@@ -52,4 +52,4 @@
 
 {"descriptions":"JMK Congo News est la chaine de la diaspora congolais en diffusant des informations, musique et autres....","source":["https://helga.iptv2022.com/JMK_CONGO_NEWS_TV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDNf/congonews.jpeg","titles":"JMK CONGO NEWS"},{"descriptions":"P-Net TV est une chaine congolaise de divertissement.","source":["http://85.234.131.234:8080/ISI-BROADCAST/PNETTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYxNjAyNDRf/pnet.jpg","titles":"P-NET TV"},
 
-{"descriptions":"Le Phare TV est une chaine congolaise de divertissement.","source":["http://85.234.151.122/ISI-BROADCAST/UP1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYxNjAyODFf/lephare.jpg","titles":"LE PHARE TV"}]}]}
+{"descriptions":"Le Phare TV est une chaine congolaise de divertissement.","source":["http://85.234.131.234:8080/ISI-BROADCAST/RADIO50/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYxNjAyODFf/lephare.jpg","titles":"LE PHARE TV"}]}]}
