@@ -6,6 +6,8 @@
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
+{"descriptions":"Trace Kitoko est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres.","source":["http://41.215.252.18:8080/live/tracekitoko_enc_new/chunks.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","titles":"TRACE KITOKO TV"},
+
 {"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://live-onetv.eu:5866/hls/Clive1.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
 
 {"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447471633865  / Tel +447305498667 et Web www.zaire-studio.com","source":["https://5caf24a595d94.streamlock.net:1937/rznewmxapm/rznewmxapm/chunklist_w1754536914.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE TV"},
@@ -33,8 +35,6 @@
 {"descriptions":"Amen TV est une chaine chretienne du ministere Amen de Leopold Mutombo.","source":["https://edge21.vedge.infomaniak.com/livecast/ik:amentvsat_4/chunklist_w1424397913.m3u8?spark=12fcec69-a711-4695-ae67-35e6764fac6b&token="],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2ODkyOTlf/Amen.jpeg","titles":"AMEN TV"},
 
 {"descriptions":"LBFD tv elengi ya mbonda","source":["http://89.163.146.99/LBFD-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYxNjAwMTJf/lbfdtv.jpg","titles":"LBFD TV"},
-
-{"descriptions":"Trace Kitoko est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres.","source":["http://41.215.252.18:8080/live/tracekitoko_enc_new/chunks.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","titles":"TRACE KITOKO TV"},
 
 {"descriptions":"Mikuba TV est l'une de chaînes télévisées de la République démocratique du Congo base à Kolwezi plein diversités des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["http://51.254.199.122:8080/MIKUBATV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAyNDQ1MDNf/mikubas.jpg","titles":"MIKUBA TV"},
 
