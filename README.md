@@ -18,11 +18,7 @@
 
 {"descriptions":"PSTV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://51.254.199.122:8080/PSTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"PSTV"},
 
-{"descriptions":"EGG PRO TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo2.pro-fhi.net:3766/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"EGG PRO TV"},
-
-
-
-
+{"descriptions":"EGG PRO TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo2.pro-fhi.net:3766/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","titles":"EGG PRO TV"},
 
 {"descriptions":"Tele Kin Malebo est l'une des chaines privées emettant a kinshasa avec un programme base sur les Series theatrales Congolais ainsi que de la musique...","source":["http://51.254.199.122:8080/kinmalebo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titles":"TELE KIN MALEBO"},
 
@@ -53,6 +49,14 @@
 {"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["http://89.163.146.99/DIGITAL-STREAM1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO"},
 
 {"descriptions":"MRC TV est une chaîne chrétienne francophone émettant de Lubumbashi en République Démocratique du Congo. ses programmes sont axés sur l’annonce de l’évangile de Jésus-Christ dans le monde entier.","source":["https://tvstudio.strimie.eu:1936/mrctv/mrctv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1OTA5NDRf/mrc.png","titles":"MRC TV"},
+
+{"descriptions":"MADI TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","titles":"MADI TV"},
+
+
+
+
+
+
 
 {"descriptions":"AMI TELEVISION est une chaine televisee chretienne de l'Evangile de Jesus Christ, notons que Nous sommes prophétiques, Nous sommes apostoliques, Nous sommes Ami Votre chaîne chrétienne anglophone. Vivez la télévision autrement avec AMI TELEVISION, votre chaîne chrétienne anglophone 24h/24 et 7j/7. Découvrez le contenu chrétien édifiant d'AMI TELEVISION qui change des vies en direct gratuitement 24h/24 et 7j/7.","source":["https://tvstudio.strimie.eu:1936/amitelevisions/amitelevisions/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg2OTkzNzdf/ami.png","titles":"AMI TV"},
 
