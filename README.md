@@ -50,7 +50,7 @@
 
 {"descriptions":"MRC TV est une chaîne chrétienne francophone émettant de Lubumbashi en République Démocratique du Congo. ses programmes sont axés sur l’annonce de l’évangile de Jésus-Christ dans le monde entier.","source":["https://tvstudio.strimie.eu:1936/mrctv/mrctv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1OTA5NDRf/mrc.png","titles":"MRC TV"},
 
-{"descriptions":"MADI TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","titles":"MADI TV"},
+{"descriptions":"MADI TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","titles":"MADI TV"},
 
 
 
