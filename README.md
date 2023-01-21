@@ -18,6 +18,12 @@
 
 {"descriptions":"PSTV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://51.254.199.122:8080/PSTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"PSTV"},
 
+{"descriptions":"EGG PRO TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo2.pro-fhi.net:3766/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"EGG PRO TV"},
+
+
+
+
+
 {"descriptions":"Tele Kin Malebo est l'une des chaines privées emettant a kinshasa avec un programme base sur les Series theatrales Congolais ainsi que de la musique...","source":["http://51.254.199.122:8080/kinmalebo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titles":"TELE KIN MALEBO"},
 
 {"descriptions":"Chaîne d'Informations Générales. Géopolis TV offre le temps du débat et de l’explication une chaine généraliste de la R.D.CONGO +243 995 819 665, geopolistv@gmail.com","source":["http://85.234.131.234:8080/ISI-BROADCAST/GeopoliceTV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDhf/geopolis.png","titles":"GEOPOLICE TV"},
