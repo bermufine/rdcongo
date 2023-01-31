@@ -44,19 +44,13 @@
 
 {"descriptions":"Numerica TV est l'une de chaînes privees télévisées de la République démocratique du Congo emettant a kinshasa et vous dispose des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["https://tvstudio.strimie.eu:1936/cftv1/cftv1/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg","titles":"NUMERICA TV"},
 
-{"descriptions":"EMCI (EnseigneMoi Canal International) est une organisation caritative chrétienne constituée au Canada en 2010 créée à l'origine en France en 2004, dont la vision est de proclamer la Bonne Nouvelle de l'Évangile à travers les médias. C'est en 2004 que Michaël Lebeau, étudiant en informatique, reçoit la vision de créer un site chrétien de qualité appelé EnseigneMoi.com. Michaël a abandonné ses études, et ses amis Jérémy et Annabelle Sourdril leur travail, pour fonder l'association EnseigneMoi. Depuis son lancement en 2005, le site enseignemoi.com rencontre un grand succès et devient rapidement le site chrétien francophone de référence. Avec plus de 2 millions de visites chaque mois, des milliers de foyers bénéficient chaque jour d'un enseignement biblique de qualité qui les aide dans leur quotidien. Suite à un appel de Dieu, l'organisation prépare en 2015 une chaîne de télévision chrétienne de qualité, appelée EMCI TV. La chaîne a officiellement vu le jour le 17 décembre 2017 avec un flux continu 24h/24 et 7j/7. Teach Me Ministries est géré par une équipe de professionnels chrétiens engagés.","source":["https://stream-07.dc3.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LszMvgCPIiurtMcIOn6AoWXCl01ZrgF6uBegftqD1MCea)/dm/3/x8azdkm/s/live-1.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titles":"EMCI TV"},
+{"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titles":"TOUS CONGO TV"},
 
 {"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["http://89.163.146.99/DIGITAL-STREAM1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO"},
 
 {"descriptions":"MRC TV est une chaîne chrétienne francophone émettant de Lubumbashi en République Démocratique du Congo. ses programmes sont axés sur l’annonce de l’évangile de Jésus-Christ dans le monde entier.","source":["https://tvstudio.strimie.eu:1936/mrctv/mrctv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1OTA5NDRf/mrc.png","titles":"MRC TV"},
 
 {"descriptions":"MADI TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","titles":"MADI TV"},
-
-
-
-
-
-
 
 {"descriptions":"AMI TELEVISION est une chaine televisee chretienne de l'Evangile de Jesus Christ, notons que Nous sommes prophétiques, Nous sommes apostoliques, Nous sommes Ami Votre chaîne chrétienne anglophone. Vivez la télévision autrement avec AMI TELEVISION, votre chaîne chrétienne anglophone 24h/24 et 7j/7. Découvrez le contenu chrétien édifiant d'AMI TELEVISION qui change des vies en direct gratuitement 24h/24 et 7j/7.","source":["https://tvstudio.strimie.eu:1936/amitelevisions/amitelevisions/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg2OTkzNzdf/ami.png","titles":"AMI TV"},
 
