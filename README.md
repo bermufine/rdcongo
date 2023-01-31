@@ -42,9 +42,9 @@
 
 {"descriptions":"SSM TV est une chaine chretienne.","source":["http://85.234.131.234:8080/ISI-BROADCAST/SSM/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0OTlf/ssmtv.jpg","titles":"STUDIO SANGO MALAMU"},
 
-{"descriptions":"Numerica TV est l'une de chaînes privees télévisées de la République démocratique du Congo emettant a kinshasa et vous dispose des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["https://tvstudio.strimie.eu:1936/cftv1/cftv1/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg","titles":"NUMERICA TV"},
-
 {"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
+
+{"descriptions":"Numerica TV est l'une de chaînes privees télévisées de la République démocratique du Congo emettant a kinshasa et vous dispose des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["https://tvstudio.strimie.eu:1936/cftv1/cftv1/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg","titles":"NUMERICA TV"},
 
 {"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["http://89.163.146.99/DIGITAL-STREAM1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO"},
 
