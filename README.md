@@ -40,9 +40,9 @@
 
 {"descriptions":"Mikuba TV est l'une de chaînes télévisées de la République démocratique du Congo base à Kolwezi plein diversités des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["http://51.254.199.122:8080/MIKUBATV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAyNDQ1MDNf/mikubas.jpg","titles":"MIKUBA TV"},
 
-{"descriptions":"SSM TV est une chaine chretienne.","source":["http://85.234.131.234:8080/ISI-BROADCAST/SSM/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0OTlf/ssmtv.jpg","titles":"STUDIO SANGO MALAMU"},
-
 {"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
+
+{"descriptions":"SSM TV est une chaine chretienne.","source":["http://85.234.131.234:8080/ISI-BROADCAST/SSM/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0OTlf/ssmtv.jpg","titles":"STUDIO SANGO MALAMU"},
 
 {"descriptions":"Numerica TV est l'une de chaînes privees télévisées de la République démocratique du Congo emettant a kinshasa et vous dispose des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["https://tvstudio.strimie.eu:1936/cftv1/cftv1/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg","titles":"NUMERICA TV"},
 
