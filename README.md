@@ -4,6 +4,9 @@
 
 {"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["http://51.254.199.122:8080/tele50/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},{"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["http://51.210.1.13:18000/bone/hls/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
 
+{"descriptions":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook;  EGG PRO TV","source":["https://vdo2.pro-fhi.net:3769/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","titles":"EGG PRO TV"},
+
+
 {"descriptions":"Maboke TV est une chaine privee de la RDC qui diffuse des theatres, films et series congolais pour votre divertissements","source":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titles":"MABOKE TV"},
 
 {"descriptions":"Trace Kitoko est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres.","source":["http://41.215.252.18:8080/live/tracekitoko_enc_new/chunks.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","titles":"TRACE KITOKO TV"},
