@@ -55,6 +55,8 @@
 
 {"descriptions":"MADI TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","titles":"MADI TV"},
 
+{"descriptions":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo","source":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titles":"C-DIRECT TV"},
+
 {"descriptions":"AMI TELEVISION est une chaine televisee chretienne de l'Evangile de Jesus Christ, notons que Nous sommes prophétiques, Nous sommes apostoliques, Nous sommes Ami Votre chaîne chrétienne anglophone. Vivez la télévision autrement avec AMI TELEVISION, votre chaîne chrétienne anglophone 24h/24 et 7j/7. Découvrez le contenu chrétien édifiant d'AMI TELEVISION qui change des vies en direct gratuitement 24h/24 et 7j/7.","source":["https://tvstudio.strimie.eu:1936/amitelevisions/amitelevisions/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg2OTkzNzdf/ami.png","titles":"AMI TV"},
 
 {"descriptions":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier","source":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","titles":"JKM CHURCH TV"},
