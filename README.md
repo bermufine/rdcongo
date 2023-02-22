@@ -30,6 +30,8 @@
 
 {"descriptions":"Chaîne d'Informations Générales. Géopolis TV offre le temps du débat et de l’explication une chaine généraliste de la R.D.CONGO +243 995 819 665, geopolistv@gmail.com","source":["http://85.234.131.234:8080/ISI-BROADCAST/GeopoliceTV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDhf/geopolis.png","titles":"GEOPOLICE TV"},
 
+{"descriptions":"Perfect TV est une chaine privée de la RDCongo qui émette à kinshasa.","source":["http://51.15.3.133:8080/PERFECT/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODcyMzM1NTVf/Perfects.jpeg","titles":"PERFECT TV"},
+
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.15.3.133:8080/RTNC3/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"RTNC 3"},
 
 {"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["http://streaming.tnt.afrikastream.com:8080/live/digitalcongo_enc/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO"},
@@ -39,8 +41,6 @@
 {"descriptions":"Parole Eternele TV est une chaine chretienne de l'eglise la Borne a lubumbashi.","source":["http://85.234.131.234:8080/ISI-BROADCAST/PAROLETV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0NTJf/paroleeternel.png","titles":"PAROLE ETERNELE"},
 
 {"descriptions":"Metanoia TV est une chaine chretienne.","source":["http://89.163.146.99/METANOIA-STREAM1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","titles":"METANOIA TV"},
-
-{"descriptions":"Perfect TV est une chaine privée de la RDCongo qui émette à kinshasa.","source":["http://51.15.3.133:8080/PERFECT/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODcyMzM1NTVf/Perfects.jpeg","titles":"PERFECT TV"},
 
 {"descriptions":"MISHAPI VOICE Tv est une chaîne de radio et télévision emmettant depuis la ville de Goma, a l'est de la Republique Democratique du Congo. Contactez nous contact@mishapivoicetv.top.","source":["http://51.254.199.122:8080/MISHAPI/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjkwMDE5ODdf/mishapi.png","titles":"MISHAPI VOICE"},
 
