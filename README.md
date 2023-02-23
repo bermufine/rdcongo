@@ -24,7 +24,7 @@
 
 {"descriptions":"PSTV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://51.254.199.122:8080/PSTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"PSTV"},
 
-{"descriptions":"EGG PRO TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo2.pro-fhi.net:3766/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","titles":"EGG PRO TV"},
+{"descriptions":"KIN 24 TV est la chaine privée de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres, autrement appelé le reflet de la ville de Kinshasa...","source":["http://51.15.3.133:8080/KIN24/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0MTJf/kin24.jpg","titles":"KIN 24 TV"},
 
 {"descriptions":"Tele Kin Malebo est l'une des chaines privées emettant a kinshasa avec un programme base sur les Series theatrales Congolais ainsi que de la musique...","source":["http://51.254.199.122:8080/kinmalebo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titles":"TELE KIN MALEBO"},
 
