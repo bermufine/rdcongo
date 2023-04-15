@@ -6,7 +6,11 @@
 
 {"descriptions":"Evi TV est l'une des chaines privées emettant a kinshasa avec un programme base sur la Politique, les Series theatrales Congolais ainsi que de la musique et autres...","source":["https://server.telepack.net/hls/evitv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ4MjA1MjBf/evitv.png","titles":"EVI TV"},
 
-{"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["http://51.254.199.122:8080/tele50/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},{"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["http://51.15.3.133:8080/BONE/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
+{"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["http://51.254.199.122:8080/tele50/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
+
+{"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["http://51.15.3.133:8080/BONE/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
+
+{"descriptions":"Chaîne d'Informations Générales. Géopolis TV offre le temps du débat et de l’explication une chaine généraliste de la R.D.CONGO +243 995 819 665, geopolistv@gmail.com","source":["http://85.234.131.234:8080/ISI-BROADCAST/GeopoliceTV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDhf/geopolis.png","titles":"GEOPOLICE TV"},
 
 {"descriptions":"Univers TV est une chaîne télévisée privée en RDCongo emmettant depuis la ville de Kinshasa avec des programmes riche tels que: plusieurs emissions,  desin animes,  predications,  journal, sports, theatre,  musique, series, cinema, culturel,  et autres  24h/24","source":["http://51.15.3.133:8080/UNIVERSTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwNjkzMTBf/univers.jpeg","titles":"UNIVERS TV"},
 
@@ -34,8 +38,6 @@
 
 {"descriptions":"Tele Kin Malebo est l'une des chaines privées emettant a kinshasa avec un programme base sur les Series theatrales Congolais ainsi que de la musique...","source":["http://51.254.199.122:8080/kinmalebo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titles":"TELE KIN MALEBO"},
 
-{"descriptions":"Chaîne d'Informations Générales. Géopolis TV offre le temps du débat et de l’explication une chaine généraliste de la R.D.CONGO +243 995 819 665, geopolistv@gmail.com","source":["http://85.234.131.234:8080/ISI-BROADCAST/GeopoliceTV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDhf/geopolis.png","titles":"GEOPOLICE TV"},
-
 {"descriptions":"Perfect TV est une chaine privée de la RDCongo qui émette à kinshasa.","source":["http://51.15.3.133:8080/PERFECT/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODcyMzM1NTVf/Perfects.jpeg","titles":"PERFECT TV"},
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.15.3.133:8080/RTNC3/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"RTNC 3"},
@@ -49,6 +51,8 @@
 {"descriptions":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo","source":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titles":"C-DIRECT TV"},
 
 {"descriptions":"Hope tv africa la premiere television chretienne d'afrique emmettant depuis la ville de Johannesburg South african avec des programmes riche tels que: plusieurs emissions,  desin animes,  predications,  journal, sports, theatre,  musique, series, cinema, culturel,  et autres  24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://vdo2.pro-fhi.net:3769/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQyOTdf/HopeAfrica.jpg","titles":"HOPE AFRICA TV"},
+
+{"descriptions":"MRC TV est une chaîne chrétienne francophone émettant de Lubumbashi en République Démocratique du Congo. ses programmes sont axés sur l’annonce de l’évangile de Jésus-Christ dans le monde entier.","source":["http://51.15.3.133:8080/MRCTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1OTA5NDRf/mrc.png","titles":"MRC TV"},
 
 {"descriptions":"VOX Africa est une chaîne africaine de la panafricanisme avec des informations en temps réel","source":["https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titles":"VOX AFRICA TV"},
 
@@ -67,8 +71,6 @@
 {"descriptions":"SSM TV est une chaine chretienne.","source":["http://85.234.131.234:8080/ISI-BROADCAST/SSM/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0OTlf/ssmtv.jpg","titles":"STUDIO SANGO MALAMU"},
 
 {"descriptions":"Rtga TV est l'une de chaînes privees télévisées de la République démocratique du Congo emettant a kinshasa et vous dispose des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["http://51.15.3.133:8080/RTGA/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODIzOTJf/rtga.jpg","titles":"RTGA TV"},
-
-{"descriptions":"MRC TV est une chaîne chrétienne francophone émettant de Lubumbashi en République Démocratique du Congo. ses programmes sont axés sur l’annonce de l’évangile de Jésus-Christ dans le monde entier.","source":["http://51.15.3.133:8080/MRCTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1OTA5NDRf/mrc.png","titles":"MRC TV"},
 
 {"descriptions":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que,  prédications, enseignements, prières, adoration et tant d'autres","source":["http://51.15.3.133:8080/CCPVTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titles":"CCPV TV / RDC-CANADA"},
 
