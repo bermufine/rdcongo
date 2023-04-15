@@ -8,14 +8,7 @@
 
 {"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["http://51.254.199.122:8080/tele50/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},{"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["http://51.15.3.133:8080/BONE/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
 
-{"descriptions":"Hope tv africa la premiere television chretienne d'afrique emmettant depuis la ville de Johannesburg South african avec des programmes riche tels que: plusieurs emissions,  desin animes,  predications,  journal, sports, theatre,  musique, series, cinema, culturel,  et autres  24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://vdo2.pro-fhi.net:3769/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQyOTdf/HopeAfrica.jpg","titles":"HOPE AFRICA TV"},
-
-
-{"descriptions":"Univers TV est une chaîne télévisée privée en RDCongo emmettant depuis la ville de Kinshasa avec des programmes riche tels que: plusieurs emissions,  desin animes,  predications,  journal, sports, theatre,  musique, series, cinema, culturel,  et autres  24h/24","source":["https://vdo2.pro-fhi.net:3769/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQyOTdf/HopeAfrica.jpg","titles":"UNIVERS TV"},
-
-
-
-{"descriptions":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook;  EGG PRO TV","source":["https://vdo2.pro-fhi.net:3769/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","titles":"EGG PRO TV"},
+{"descriptions":"Univers TV est une chaîne télévisée privée en RDCongo emmettant depuis la ville de Kinshasa avec des programmes riche tels que: plusieurs emissions,  desin animes,  predications,  journal, sports, theatre,  musique, series, cinema, culturel,  et autres  24h/24","source":["http://51.15.3.133:8080/UNIVERSTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwNjkzMTBf/univers.jpeg","titles":"UNIVERS TV"},
 
 {"descriptions":"Maboke TV est une chaine privee de la RDC qui diffuse des theatres, films et series congolais pour votre divertissements","source":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titles":"MABOKE TV"},
 
@@ -55,6 +48,8 @@
 
 {"descriptions":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo","source":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titles":"C-DIRECT TV"},
 
+{"descriptions":"Hope tv africa la premiere television chretienne d'afrique emmettant depuis la ville de Johannesburg South african avec des programmes riche tels que: plusieurs emissions,  desin animes,  predications,  journal, sports, theatre,  musique, series, cinema, culturel,  et autres  24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://vdo2.pro-fhi.net:3769/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQyOTdf/HopeAfrica.jpg","titles":"HOPE AFRICA TV"},
+
 {"descriptions":"VOX Africa est une chaîne africaine de la panafricanisme avec des informations en temps réel","source":["https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titles":"VOX AFRICA TV"},
 
 {"descriptions":"Obosso TV est une chaîne du congo brazza en diffusant des musiques congolaise et africains....","source":["https://stream.ecable.tv/afrobeats/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titles":"OBOSSO TV"},
@@ -90,5 +85,7 @@
 {"descriptions":"Congo Planet Rumba est la chaine de la RDCongo qui qui diffuse de la musique rumba congolaise t et autres","source":["http://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CONGO PLANET RUMBA"},
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.254.199.122:8080/rtnc/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1 / LIEN3"},
+
+{"descriptions":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook;  EGG PRO TV","source":["https://vdo2.pro-fhi.net:3769/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","titles":"EGG PRO TV"},
 
 {"descriptions":"B-ONE est la chaine de la RDC qui emette a Kinshasa en diffusant des informations, musique et autres....","source":["http://217.182.137.206/b_one.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE TV"}]}]}
