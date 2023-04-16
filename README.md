@@ -76,13 +76,13 @@
 
 {"descriptions":"MADI TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","titles":"MADI TV"},
 
+{"descriptions":"MAMPALA TV est la chaine de la RDCongo qui qui diffuse 24H/7 Avec des programmes riches et autres","source":["http://89.163.146.99:80/MAMPALA-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5Mzg3NTdf/cplanetgospel.png","titles":"MAMPALA TV"},
+
 {"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["http://89.163.146.99/DIGITAL-STREAM1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO"},
 
 {"descriptions":"RTACK TV est une chaine televisee chretienne de l'église Assemblée Chrétienne de Kinshasa,  la télévavec AMI TELEVISION, conduit par Évêque Mukuna Pascal, Découvrez le contenu chrétien édifiant qui change des vies en direct gratuitement 24h/24 et 7j/7.","source":["http://51.15.3.133:8080/MOLIERETV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg2OTkzNzdf/ami.png","titles":"RTACK TV"},
 
 {"descriptions":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier","source":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","titles":"JKM CHURCH TV"},
-
-{"descriptions":"Congo Planet Gospel est la chaine de la RDCongo qui qui diffuse de la musique chretienne congolaise et autres","source":["http://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5Mzg3NTdf/cplanetgospel.png","titles":"CONGO PLANET GOSPEL"},
 
 {"descriptions":"Congo Planet Rumba est la chaine de la RDCongo qui qui diffuse de la musique rumba congolaise t et autres","source":["http://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CONGO PLANET RUMBA"},
 
