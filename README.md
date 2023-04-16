@@ -82,7 +82,7 @@
 
 {"descriptions":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier","source":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","titles":"JKM CHURCH TV"},
 
-{"descriptions":"Congo Planet Gospel est la chaine de la RDCongo qui qui diffuse de la musique chretienne congolaise et autres","source":["http://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5Mzg3NTdf/cplanetgospel.png","titles":"CONGO PLANET GOSPEL"},
+{"descriptions":"MAMPALA TV est la chaine de la RDCongo qui qui diffuse 24H/7 Avec des programmes riches et autres","source":["http://89.163.146.99:80/MAMPALA-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5Mzg3NTdf/cplanetgospel.png","titles":"MAMPALA TV"},
 
 {"descriptions":"Congo Planet Rumba est la chaine de la RDCongo qui qui diffuse de la musique rumba congolaise t et autres","source":["http://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CONGO PLANET RUMBA"},
 
