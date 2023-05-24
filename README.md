@@ -24,6 +24,8 @@
 
 {"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://live-onetv.eu:5866/hls/Clive1.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
 
+{"descriptions":"Plume TV est l'une des chaines privées emettant a kinshasa avec un programme divers...","source":["http://89.163.146.99:80/puma-tv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODk0NzkwNjlf/Plume.jpg","titles":"PLUME TV"},
+
 {"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447471633865  / Tel +447305498667 et Web www.zaire-studio.com","source":["https://5caf24a595d94.streamlock.net:1937/rznewmxapm/rznewmxapm/chunklist_w1754536914.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE TV"},
 
 {"descriptions":"VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929","source":["http://51.254.199.122:8080/veriteTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png","titles":"VERITE TV"},
@@ -35,8 +37,6 @@
 {"descriptions":"Dynamique TV est une une chaîne privee emettant en RDCongo en diffusant des informations, musique et Sports et autres.","source":["http://51.15.3.133:8080/DYNAMIQUETV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDJf/dynamique.jpeg","titles":"DYNAMIQUE TV"},
 
 {"descriptions":"KIN 24 TV est la chaine privée de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres, autrement appelé le reflet de la ville de Kinshasa...","source":["http://51.15.3.133:8080/KIN24/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0MTJf/kin24.jpg","titles":"KIN 24 TV"},
-
-{"descriptions":"Tele Kin Malebo est l'une des chaines privées emettant a kinshasa avec un programme base sur les Series theatrales Congolais ainsi que de la musique...","source":["http://51.254.199.122:8080/kinmalebo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjMzNzU2MjJf/malebo.png","titles":"TELE KIN MALEBO"},
 
 {"descriptions":"Perfect TV est une chaine privée de la RDCongo qui émette à kinshasa.","source":["http://51.15.3.133:8080/PERFECT/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODcyMzM1NTVf/Perfects.jpeg","titles":"PERFECT TV"},
 
