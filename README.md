@@ -48,7 +48,7 @@
 
 {"descriptions":"Parole Eternele TV est une chaine chretienne de l'eglise la Borne a lubumbashi.","source":["http://85.234.131.234:8080/ISI-BROADCAST/PAROLETV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0NTJf/paroleeternel.png","titles":"PAROLE ETERNELE"},
 
-{"descriptions":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo","source":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titles":"C-DIRECT TV"},
+{"descriptions":"Nsingi TV est une chaîne privée qui émettent","source":["http://51.15.3.133:8080/NSINGITV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titles":"NSINGI TV"},
 
 {"descriptions":"Hope tv africa la premiere television chretienne d'afrique emmettant depuis la ville de Johannesburg South african avec des programmes riche tels que: plusieurs emissions,  desin animes,  predications,  journal, sports, theatre,  musique, series, cinema, culturel,  et autres  24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://vdo2.pro-fhi.net:3769/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQyOTdf/HopeAfrica.jpg","titles":"HOPE AFRICA TV"},
 
