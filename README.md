@@ -54,7 +54,7 @@
 
 {"descriptions":"MAMPALA TV est la chaine de la RDCongo qui qui diffuse 24H/7 Avec des programmes riches et autres","source":["http://89.163.146.99:80/MAMPALA-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwNzU0MzFf/Mampala.jpg","titles":"MAMPALA TV"},
 
-{"descriptions":"Parole Eternele TV est une chaine chretienne de l'eglise la Borne a lubumbashi.","source":["http://85.234.131.234:8080/ISI-BROADCAST/PAROLETV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0NTJf/paroleeternel.png","titles":"PAROLE ETERNELE"},
+{"descriptions":"Parole Eternele TV est une chaine chretienne de l'eglise la Borne a lubumbashi.","source":["http://89.163.146.99/PAROLE-TV-ISI-BROADCAST/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0NTJf/paroleeternel.png","titles":"PAROLE ETERNELE"},
 
 {"descriptions":"Nsingi TV est une chaîne privée qui émettent","source":["http://51.15.3.133:8080/NSINGITV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titles":"NSINGI TV"},
 
