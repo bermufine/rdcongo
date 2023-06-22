@@ -32,9 +32,9 @@
 
 {"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447471633865  / Tel +447305498667 et Web www.zaire-studio.com","source":["https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE TV"},
 
-{"descriptions":"Congo Buzz Télévisionsest la chaine congolaise","source":["http://51.15.3.133:8080/CONGOBUZZ/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"CONGO BUZZ TV"},
+{"descriptions":"Congo Buzz Télévisionsest la chaine congolaise","source":["http://51.15.3.133:8080/CONGOBUZZ/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3OTg5MDBf/buzz.jpg","titles":"CONGO BUZZ TV"},
 
-{"descriptions":"Ya Biso Télévisionsest la chaine congolaise qui diffusant des musique théâtres et autres","source":["http://51.15.3.133:8080/BISOTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"BISO TV"},
+{"descriptions":"Ya Biso Télévisionsest la chaine congolaise qui diffusant des musique théâtres et autres","source":["http://51.15.3.133:8080/BISOTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3OTg5MDZf/bisotv.jpeg","titles":"BISO TV"},
 
 {"descriptions":"Canal Moliere TV la chaîne de télévision Molière est une oeuvre du Lycée Molière, Elle a été créée à l'initiative de Monsieur Léon NEMBALEMBA ESUKU de la nationalité Congolaise qui en est le propriétaire. Lors de sa création, Molière TV était dans la ligne régie d'une station thématique dans le domaine de l'éducation d'où le slogan premier l'éducation par les médias c'est le centre même de l'existence de cette télévision parce qu'elle se voulait différente à d'autres chaînes de la capitale à l'instar de SSM, RTP, RTS, RTMV, RTAE qui étaient exclusivement religieuses. A cette époque, il n'existait qu'une seule chaîne de télévision éducative CEBS, qui avait selon son prénom un programme mixte comportant l'éducation scolaire, la culture et l'information générale. La chaine Molière télévision a la ligne éditoriale généraliste d'où le slogan la chaine non alignée La création de Molière a suivi les cheminements suivants 2004 obtentions de la licence d'exploitation au ministère de poste et telecommunication. Janvier 2005, approbation et adoption de Molière T.V. comme chaîne éducative aux couleurs scolaires.","source":["http://51.254.199.122:8080/MoliereTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MDlf/moliere.jpg","titles":"MOLIERE TV"},
 
@@ -60,7 +60,9 @@
 
 {"descriptions":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook;  EGG PRO TV","source":["https://stream-011.zeno.fm:443/0w1gkvaq8whvv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","titles":"EGG PRO TV"},
 
-{"descriptions":"Bazik Rumba TV est la chaine de la RDCongo qui qui diffuse de la musique rumba congolaise t et autres","source":["https://bazikrumba.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"BAZIK RUMBA TV"},
+{"descriptions":"RTACK TV est une chchaîne aine televisee chretienne de l'église Assemblée Chrétienne de Kinshasa,  la télévavec AMI TELEVISION, conduit par Évêque Mukuna Pascal, Découvrez le contenu chrétien édifiant qui change des vies en direct gratuitement 24h/24 et 7j/7.","source":["http://51.15.3.133:8080/MOLIERETV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3OTg5MDNf/ackbandal.jpg","titles":"RTACK TV"},
+
+{"descriptions":"Bazik Rumba TV est la chaine de la RDCongo qui qui diffuse de la musique rumba congolaise t et autres","source":["https://bazikrumba.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NjQ2MTlf/bazikrumba.jpg","titles":"BAZIK RUMBA TV"},
 
 {"descriptions":"MADI TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","titles":"MADI TV"},
 
@@ -81,8 +83,6 @@
 {"descriptions":"10ème Rue Television est l'une des chaines privées de la RDC qui emette a Kinshasa en diffusant des informations Politiques, musique et autres. Pour tout contact: +243 82 344 50 54....","source":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_token/10eme_rue.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzA4NTAyOTRf/dixiemerue.png","titles":"10EME RUE TV"},
 
 {"descriptions":"Digital Congo est la chaine de la RDC qui emette a Kinshasa en diffusant des informations, musique et autres....","source":["http://51.15.3.133:8080/DIGITAL-CONGO/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO / LIEN 3"},
-
-{"descriptions":"RTACK TV est une chchaîne aine televisee chretienne de l'église Assemblée Chrétienne de Kinshasa,  la télévavec AMI TELEVISION, conduit par Évêque Mukuna Pascal, Découvrez le contenu chrétien édifiant qui change des vies en direct gratuitement 24h/24 et 7j/7.","source":["http://51.15.3.133:8080/MOLIERETV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg2OTkzNzdf/ami.png","titles":"RTACK TV"},
 
 {"descriptions":"Rtga TV est l'une de chaînes privees télévisées de la République démocratique du Congo emettant a kinshasa et vous dispose des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["http://51.15.3.133:8080/RTGA/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODIzOTJf/rtga.jpg","titles":"RTGA TV"},
 
