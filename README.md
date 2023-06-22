@@ -32,8 +32,6 @@
 
 {"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447471633865  / Tel +447305498667 et Web www.zaire-studio.com","source":["https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE TV"},
 
-{"descriptions":"Congo Buzz Télévisionsest la chaine congolaise","source":["http://51.15.3.133:8080/CONGOBUZZ/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3OTg5MDBf/buzz.jpg","titles":"CONGO BUZZ TV"},
-
 {"descriptions":"Ya Biso Télévisionsest la chaine congolaise qui diffusant des musique théâtres et autres","source":["http://51.15.3.133:8080/BISOTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3OTg5MDZf/bisotv.jpeg","titles":"BISO TV"},
 
 {"descriptions":"Canal Moliere TV la chaîne de télévision Molière est une oeuvre du Lycée Molière, Elle a été créée à l'initiative de Monsieur Léon NEMBALEMBA ESUKU de la nationalité Congolaise qui en est le propriétaire. Lors de sa création, Molière TV était dans la ligne régie d'une station thématique dans le domaine de l'éducation d'où le slogan premier l'éducation par les médias c'est le centre même de l'existence de cette télévision parce qu'elle se voulait différente à d'autres chaînes de la capitale à l'instar de SSM, RTP, RTS, RTMV, RTAE qui étaient exclusivement religieuses. A cette époque, il n'existait qu'une seule chaîne de télévision éducative CEBS, qui avait selon son prénom un programme mixte comportant l'éducation scolaire, la culture et l'information générale. La chaine Molière télévision a la ligne éditoriale généraliste d'où le slogan la chaine non alignée La création de Molière a suivi les cheminements suivants 2004 obtentions de la licence d'exploitation au ministère de poste et telecommunication. Janvier 2005, approbation et adoption de Molière T.V. comme chaîne éducative aux couleurs scolaires.","source":["http://51.254.199.122:8080/MoliereTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MDlf/moliere.jpg","titles":"MOLIERE TV"},
@@ -69,6 +67,8 @@
 {"descriptions":"Trace Kitoko est une une chaîne spécialisée aux musiques Congolaise, Rumba, Ndombolo et autres.","source":["http://41.215.252.18:8080/live/tracekitoko_enc_new/chunks.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","titles":"TRACE KITOKO TV"},
 
 {"descriptions":"MAMPALA TV est la chaine de la RDCongo qui qui diffuse 24H/7 Avec des programmes riches et autres","source":["http://89.163.146.99:80/MAMPALA-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODgwNzU0MzFf/Mampala.jpg","titles":"MAMPALA TV"},
+
+{"descriptions":"Congo Buzz Télévisionsest la chaine congolaise","source":["http://51.15.3.133:8080/CONGOBUZZ/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3OTg5MDBf/buzz.jpg","titles":"CONGO BUZZ TV"},
 
 {"descriptions":"Nsingi TV est une chaîne privée qui émettent","source":["http://51.15.3.133:8080/NSINGITV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titles":"NSINGI TV"},
 
