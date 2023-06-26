@@ -98,7 +98,7 @@
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.15.3.133:8080/RTNC3/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"RTNC 3"},
 
-{"descriptions":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier","source":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","titles":"JKM CHURCH TV"},
+{"descriptions":"JKM TV est une chaîne chrétienne qui diffuse l'amour de JESUS CHRIST dans le monde entier","source":["https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4Mzk4MDNf/jkmtv.png","titles":"JKM CHURCH TV"},
 
 {"descriptions":"RLPRO TV est une chaine privée de la RDCongo qui émette à kinshasa.","source":["https://rlprotv.vedge.infomaniak.com/livecast/ik:rlprotv/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1OTEzMzhf/rlpros.png","titles":"RLPRO TV"},
 
