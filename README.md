@@ -10,11 +10,10 @@
 
 {"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://live-onetv.eu:5866/hls/Clive1.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
 
-{"descriptions":"PROVIDENCE TV Est une Chaîne Chrétienne qui a pour but de Conquérir le monde pour Jésus - Christ
-Description: Providence Tv, est une chaîne d'éducation, exhortation de la bonne parole pour sauver les âmes en Jésus Christ, 
+{"descriptions":"PROVIDENCE TV une chaîne d'éducation, exhortation de la bonne parole pour sauver les âmes en Jésus Christ, 
 comme Romains 10: 9 - 10 dit:
 9. Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé.
-10. Car c'est en croyant du coeur qu'on parvient à la justice, et c'est en confessant de la bouche qu'on parvient au salut,","source":["https://tvstudio.strimie.eu:3757/stream/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5NjQ5MDhf/Providencetv.png","titles":"PROVIDENCE TV"},
+10. Car c'est en croyant du coeur qu'on parvient à la justice, et c'est en confessant de la bouche qu'on parvient au salut. notre Slogan est de = Conquérir le monde pour Jésus - Christ =","source":["https://tvstudio.strimie.eu:3757/stream/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5NjQ5MDhf/Providencetv.png","titles":"PROVIDENCE TV"},
 
 {"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["http://51.15.3.133:8080/TELE50/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
 
