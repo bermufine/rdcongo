@@ -35,7 +35,7 @@ comme Romains 10: 9 - 10 dit:
 
 {"descriptions":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que,  prédications, enseignements, prières, adoration et tant d'autres","source":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By     Channel","thumbs":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titles":"CCPV TV / RDC-CANADA"},
 
-{"descriptions":"RTACK TV est une chchaîne aine televisee chretienne de l'église Assemblée Chrétienne de Kinshasa,  la télévavec AMI TELEVISION, conduit par Évêque Mukuna Pascal, Découvrez le contenu chrétien édifiant qui change des vies en direct gratuitement 24h/24 et 7j/7.","source":["http://51.15.3.133:8080/MOLIERETV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3OTg5MDNf/ackbandal.jpg","titles":"RTACK TV"},
+{"descriptions":"RTACK TV est une chchaîne aine televisee chretienne de l'église Assemblée Chrétienne de Kinshasa,  la télévavec AMI TELEVISION, conduit par Évêque Mukuna Pascal, Découvrez le contenu chrétien édifiant qui change des vies en direct gratuitement 24h/24 et 7j/7.","source":["http://51.15.3.133:8080/MOLIERE/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3OTg5MDNf/ackbandal.jpg","titles":"RTACK TV"},
 
 {"descriptions":"NUMERICA est une une chaîne privee emettant en RDCongo en diffusant des informations, musique et Sports et autres.","source":["http://51.15.3.133:8080/NUMERICATV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg","titles":"NUMERICA TV"},
 
