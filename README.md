@@ -61,6 +61,8 @@ comme Romains 10: 9 - 10 dit:
 
 {"descriptions":"Obosso TV est la chaine qui diffuse de la musique congolaise et internationale","source":["https://obossobroadcast.fr/otv/obossotv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titles":"OBOSSO TV"},
 
+{"descriptions":"DBN TV est la chaine qui diffuse de la musique congolaise et internationale","source":["http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titles":"DBN TV"},
+
 {"descriptions":"AFROBEAT TV est la chaine qui diffuse de la musique congolaise et internationale","source":["https://stream.ecable.tv/afrobeats/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titles":"AFROBEAT TV"},
 
 {"descriptions":"Metanoia TV est une chaine chretienne.","source":["http://89.163.146.99/METANOIA-STREAM1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","titles":"METANOIA TV"},
