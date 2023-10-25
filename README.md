@@ -10,7 +10,7 @@
 
 {"descriptions":"Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590","source":["http://51.254.199.122:8080/bossbrothersTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg","titles":"BOSS BROTHER TV"},
 
-{"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://89.163.146.99/RTNC_1-SRT/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE4OTAwOTlf/francophonie.jpg","titles":"RTNC / JEUX FRANCOPHONIE"},
+{"descriptions":"JKM Church est une chaîne chrétienne pour l'édification des chrétiens.","source":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE4OTAwOTlf/francophonie.jpg","titles":"JKM CHURCH"},
 
 {"descriptions":"Evi TV est l'une des chaines privées emettant a kinshasa avec un programme base sur la Politique, les Series theatrales Congolais ainsi que de la musique et autres...","source":["https://stream.telepack.net/evitv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ4MjA1MjBf/evitv.png","titles":"EVI TV"},
 
@@ -32,6 +32,9 @@ comme Romains 10: 9 - 10 dit:
 {"descriptions":"VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929","source":["http://51.15.3.133:8080/VERITETV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png","titles":"VERITE TV"},
 
 {"descriptions":"Tokomi Wapi TV est l'une des chaines privées emettant a kinshasa avec un programme divers...","source":["http://89.163.146.99/TOKOMI-WAPI/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2ODM3ODVf/tokomiwapitv.jpg","titles":"TOKOMI WAPI TV"},
+
+{"descriptions":"ROYAL TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo.pro.fhi.net:3259/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"ROYAL TV"},
+
 
 {"descriptions":"PSTV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://51.254.199.122:8080/PSTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"PSTV"},
 
