@@ -33,8 +33,7 @@ comme Romains 10: 9 - 10 dit:
 
 {"descriptions":"Tokomi Wapi TV est l'une des chaines privées emettant a kinshasa avec un programme divers...","source":["http://89.163.146.99/TOKOMI-WAPI/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2ODM3ODVf/tokomiwapitv.jpg","titles":"TOKOMI WAPI TV"},
 
-{"descriptions":"ROYAL TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo.pro.fhi.net:3259/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"ROYAL TV"},
-
+{"descriptions":"ROYAL TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo.pro.fhi.net:3259/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg1OTZf/royaltv.jpg","titles":"ROYAL TV"},
 
 {"descriptions":"PSTV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://51.254.199.122:8080/PSTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"PSTV"},
 
