@@ -46,7 +46,7 @@ NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION  DE L'ÉMANCIPATION SPIRITUELLE D
 
 {"descriptions":"PSTV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://51.254.199.122:8080/PSTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"PSTV"},
 
-{"descriptions":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que,  prédications, enseignements, prières, adoration et tant d'autres","source":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By     Channel","thumbs":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titles":"CCPV TV / RDC-CANADA"},
+{"descriptions":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que,  prédications, enseignements, prières, adoration et tant d'autres","source":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By     Channel","thumbs":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titles":"CCPV TV"},
 
 {"descriptions":"NUMERICA est une une chaîne privee emettant en RDCongo en diffusant des informations, musique et Sports et autres.","source":["http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg","titles":"NUMERICA TV"},
 
@@ -74,7 +74,10 @@ NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION  DE L'ÉMANCIPATION SPIRITUELLE D
 
 {"descriptions":"SSM TV est une chaine chretienne.","source":["http://85.234.131.234:8080/ISI-BROADCAST/SSM/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0OTlf/ssmtv.jpg","titles":"STUDIO SANGO MALAMU"},
 
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"START TV"},
+{"descriptions":"Découvrez les parcours des stars d'aujourd'hui et de demain. Responsable Administratif Direct : (+243) 900 402 547 siege.startv@gmail.com Gombe, Kinshasa contactez : siege.startv@gmail.com / direction.startv@gmail.com / secretariat.startv@gmail.com /  ou visitez-nous notre site web : http://Www.star-tv.online/","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"START TV"},
+
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a01y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODcyMTYxNDRf/Eden.png","titles":"EDEN TV"},
+
 
 {"descriptions":"Parole Eternele TV est une chaine chretienne de l'eglise la Borne a lubumbashi.","source":["http://85.234.131.234:8080/ISI-BROADCAST/PAROLETV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0NTJf/paroleeternel.png","titles":"PAROLE ETERNELE"},
 
@@ -114,15 +117,13 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02w/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CMB DIGI"},
 
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a032/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"FACE TV"},
+
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02t/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"DRC SPORTS"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02d/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"EADTV CONGO"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02x/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"EDUC TV"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a01y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"EDEN TV"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a032/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"FACE TV"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02v/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"HERITAGE TV"},
 
