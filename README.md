@@ -107,7 +107,7 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
-{"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a033/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"ABSY TV"},
+{"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a033/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2Njdf/Absytv.jpg","titles":"ABSY TV"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02s/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","titles":"ANTENNE A"},
 
@@ -117,27 +117,27 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CONGO WORLD"},
 
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02w/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CMB DIGI"},
+{"descriptions":"chanel medias broadcast digital: bienvenue à tous sur la page officielle de Chanel medias broadcast. visiter notre site web : http://www.cmbdigi-tv.com/","source":["http://102.129.84.20:8000/play/a02w/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3MTlf/cmbdigi.png","titles":"CMB DIGI"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a032/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV"},
 
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02t/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"DRC SPORTS"},
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02t/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3MDdf/drcsportstv.jpeg","titles":"DRC SPORTS"},
 
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02x/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"EDUC TV"},
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02x/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3MDFf/eductv.jpeg","titles":"EDUC TV"},
 
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02v/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"HERITAGE TV"},
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02v/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3MTRf/heritagetv.jpeg","titles":"HERITAGE TV"},
 
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a037/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"KILARTUS"},
+{"descriptions":"Contactez-nous au +243 819 933 967 / kilartusmondeofficiel@gmail.com","source":["http://102.129.84.20:8000/play/a037/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2OTRf/kilartustv.png","titles":"KILARTUS"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02z/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0MTJf/kin24.jpg","titles":"KIN 24"},
 
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a039/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"NZAMU"},
+{"descriptions":"contactez-nous : Papyepiana@gmail.com et vister notre site web : nzamutv.org","source":["http://102.129.84.20:8000/play/a039/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2ODZf/nzamutv.jpeg","titles":"NZAMU"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02u/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODIzOTJf/rtga.jpg","titles":"RTGA"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a034/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODIzOTJf/rtga.jpg","titles":"RTEE TV"},
 
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02o/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"RTEC TV"},
+{"descriptions":"RTEC TV est la Première chaine Thématique en RDC","source":["http://102.129.84.20:8000/play/a02o/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2Nzlf/rtectv.jpg","titles":"RTEC TV"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a038/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC HD"},
 
