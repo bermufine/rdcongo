@@ -14,8 +14,6 @@
 
 {"descriptions":"Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590","source":["http://51.254.199.122:8080/bossbrothersTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg","titles":"BOSS BROTHER"},
 
-{"descriptions":"JKM Church est une chaîne chrétienne pour l'édification des chrétiens.","source":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg2NjFf/jkmChurch.png","titles":"JKM CHURCH"},
-
 {"descriptions":"Evi TV est l'une des chaines privées emettant a kinshasa avec un programme base sur la Politique, les Series theatrales Congolais ainsi que de la musique et autres...","source":["https://stream.telepack.net/evitv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ4MjA1MjBf/evitv.png","titles":"EVI TV"},
 
 {"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://live-onetv.eu:5866/hls/Clive1.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
@@ -103,17 +101,13 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["http://102.129.84.20:8000/play/a02g/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"},
 
-{"descriptions":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","source":["https://protv.vedge.infomaniak.com/livecast/ik:protv/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","titles":"RL PRO TV"},
-
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
 {"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a033/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2Njdf/Absytv.jpg","titles":"ABSY TV"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02s/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","titles":"ANTENNE A"},
 
-{"descriptions":"TV 3","source":["http://102.129.84.20:8000/play/a031/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"AUBS TV"},
-
-{"descriptions":"TV 4","source":["http://102.129.84.20:8000/play/a030/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CEBS TV"},
+{"descriptions":"Contactez-nous au : +243 851 421 220","source":["http://102.129.84.20:8000/play/a030/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","titles":"CEBS TV"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CONGO WORLD"},
 
@@ -145,9 +139,16 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02m/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ4ODhf/rtnc2.jpg","titles":"RTNC 2"},
 
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02n/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"RTNC 3"}]}]}
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02n/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"RTNC 3"},
+
+{"descriptions":"TV 3","source":["http://102.129.84.20:8000/play/a031/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3NzBf/Aubstv.jpg","titles":"AUBS TV"},
+
+{"descriptions":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","source":["https://protv.vedge.infomaniak.com/livecast/ik:protv/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","titles":"RL PRO TV"},]}]}
 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_token/10eme_rue.m3u8
+
+{"descriptions":"JKM Church est une chaîne chrétienne pour l'édification des chrétiens.","source":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg2NjFf/jkmChurch.png","titles":"JKM CHURCH"},
+
 
 
 {"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
