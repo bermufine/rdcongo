@@ -72,9 +72,11 @@ NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION  DE L'ÉMANCIPATION SPIRITUELLE D
 
 {"descriptions":"MISHAPI VOICE Tv est une chaîne de radio et télévision emmettant depuis la ville de Goma, a l'est de la Republique Democratique du Congo. Contactez nous contact@mishapivoicetv.top.","source":["http://51.254.199.122:8080/MISHAPI/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjkwMDE5ODdf/mishapi.png","titles":"MISHAPI VOICE"},
 
+{"descriptions":"Ecole a Domicile Television EADTV est la premiere chaine educative au Congo RDC","source":["http://102.129.84.20:8000/play/a02d/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NTJf/eadtv.jpeg","titles":"EADTV CONGO"},
+
 {"descriptions":"SSM TV est une chaine chretienne.","source":["http://85.234.131.234:8080/ISI-BROADCAST/SSM/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0OTlf/ssmtv.jpg","titles":"STUDIO SANGO MALAMU"},
 
-{"descriptions":"Découvrez les parcours des stars d'aujourd'hui et de demain. Responsable Administratif Direct : (+243) 900 402 547 siege.startv@gmail.com Gombe, Kinshasa contactez : siege.startv@gmail.com / direction.startv@gmail.com / secretariat.startv@gmail.com /  ou visitez-nous notre site web : http://Www.star-tv.online/","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"START TV"},
+{"descriptions":"Découvrez les parcours des stars d'aujourd'hui et de demain. Responsable Administratif Direct : (+243) 900 402 547 siege.startv@gmail.com Gombe, Kinshasa contactez : siege.startv@gmail.com / direction.startv@gmail.com / secretariat.startv@gmail.com /  ou visitez-nous notre site web : http://Www.star-tv.online/","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NDVf/start.png","titles":"START TV"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a01y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODcyMTYxNDRf/Eden.png","titles":"EDEN TV"},
 
@@ -120,8 +122,6 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a032/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"FACE TV"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02t/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"DRC SPORTS"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02d/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"EADTV CONGO"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02x/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"EDUC TV"},
 
