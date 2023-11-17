@@ -99,7 +99,7 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"10ème Rue Television est l'une des chaines privées de la RDC qui emette a Kinshasa en diffusant des informations Politiques, musique et autres. Pour tout contact: +243 82 344 50 54....","source":["https://tv1.isi-broadcast.tech/10eme-tv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzA4NTAyOTRf/dixiemerue.png","titles":"10EME RUE TV"},
 
-{"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["http://102.129.84.20:8000/play/a02g/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"},
+{"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["http://102.129.84.20:8000/play/a02g/index.m3u899"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"},
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
