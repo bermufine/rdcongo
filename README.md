@@ -112,7 +112,7 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02f/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg3Nzdf/bnltv.jpeg","titles":"BANTU NEWS"},
 
-{"descriptions":"TV 1","sourceBra":["http://102.129.84.20:8000/play/a01w/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MzBf/france24.jpeg","titles":"FRANCE 24"},
+{"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a01w/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MzBf/france24.jpeg","titles":"FRANCE 24"},
 
 {"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a02g/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING"},
 
