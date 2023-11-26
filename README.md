@@ -36,6 +36,8 @@ NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION  DE L'ÉMANCIPATION SPIRITUELLE D
 
 {"descriptions":"VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929","source":["http://51.15.3.133:8080/VERITETV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png","titles":"VERITE TV"},
 
+{"descriptions":"Découvrez les parcours des stars d'aujourd'hui et de demain. Responsable Administratif Direct : (+243) 900 402 547 siege.startv@gmail.com Gombe, Kinshasa contactez : siege.startv@gmail.com / direction.startv@gmail.com / secretariat.startv@gmail.com /  ou visitez-nous notre site web : http://Www.star-tv.online/","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NDVf/start.png","titles":"START TV"},
+
 {"descriptions":"Tokomi Wapi TV est l'une des chaines privées emettant a kinshasa avec un programme divers...","source":["http://89.163.146.99/TOKOMI-WAPI/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2ODM3ODVf/tokomiwapitv.jpg","titles":"TOKOMI WAPI"},
 
 {"descriptions":"ROYAL TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo.pro-fhi.net:3259/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg1OTZf/royaltv.jpg","titles":"ROYAL TV"},
@@ -94,43 +96,15 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"AMEN TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens, Une chaine du ministerevAmen de l'apotre Leopold Mutombo","source":["http://89.163.146.99:80/AMEN_TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2ODkyOTlf/Amen.jpeg","titles":"AMEN TV"},
 
+{"descriptions":"Ecole a Domicile Television EADTV est la premiere chaine educative au Congo RDC","source":["http://102.129.84.20:8000/play/a02d/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NTJf/eadtv.jpeg","titles":"EADTV CONGO"},
+
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
 {"descriptions":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","source":["https://protv.vedge.infomaniak.com/livecast/ik:protv/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","titles":"RL PRO TV"},
 
-{"descriptions":"Ecole a Domicile Television EADTV est la premiere chaine educative au Congo RDC","source":["http://102.129.84.20:8000/play/a02d/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NTJf/eadtv.jpeg","titles":"EADTV CONGO"},
-
-{"descriptions":"contactez-nous : Papyepiana@gmail.com et vister notre site web : nzamutv.org","source":["http://102.129.84.20:8000/play/a039/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2ODZf/nzamutv.jpeg","titles":"NZAMU"},
-
-{"descriptions":"Contactez-nous au +243 819 933 967 / kilartusmondeofficiel@gmail.com","source":["http://102.129.84.20:8000/play/a037/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2OTRf/kilartustv.png","titles":"KILARTUS"},
-
-{"descriptions":"Découvrez les parcours des stars d'aujourd'hui et de demain. Responsable Administratif Direct : (+243) 900 402 547 siege.startv@gmail.com Gombe, Kinshasa contactez : siege.startv@gmail.com / direction.startv@gmail.com / secretariat.startv@gmail.com /  ou visitez-nous notre site web : http://Www.star-tv.online/","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NDVf/start.png","titles":"START TV"},
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a01y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODcyMTYxNDRf/Eden.png","titles":"EDEN TV"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a034/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODIzOTJf/rtga.jpg","titles":"RTEE TV"},
-
-{"descriptions":"RTEC TV est la Première chaine Thématique en RDC","source":["http://102.129.84.20:8000/play/a02o/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2Nzlf/rtectv.jpg","titles":"RTEC TV"},
-
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02f/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"TBNL TV"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a022/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"TV CONGO"},
-
-{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://vdo.pro-fhi.net:3521/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS"},
-
-{"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a033/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2Njdf/Absytv.jpg","titles":"ABSY TV"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02s/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","titles":"ANTENNE A"},
-
-{"descriptions":"Contactez-nous au : +243 851 421 220","source":["http://102.129.84.20:8000/play/a030/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","titles":"CEBS TV"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"},
-
-{"descriptions":"chanel medias broadcast digital: bienvenue à tous sur la page officielle de Chanel medias broadcast. visiter notre site web : http://www.cmbdigi-tv.com/","source":["http://102.129.84.20:8000/play/a02w/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3MTlf/cmbdigi.png","titles":"CMB DIGI"}]}]}
-
-
-
-
-
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a032/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV"},
 
@@ -144,6 +118,21 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02u/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODIzOTJf/rtga.jpg","titles":"RTGA"},
 
+{"descriptions":"TV 3","source":["http://102.129.84.20:8000/play/a031/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3NzBf/Aubstv.jpg","titles":"AUBS TV"},
+
+{"descriptions":"RTACK TV est une chchaîne aine televisee chretienne de l'église Assemblée Chrétienne de Kinshasa,  la télévavec AMI TELEVISION, conduit par Évêque Mukuna Pascal, Découvrez le contenu chrétien édifiant qui change des vies en direct gratuitement 24h/24 et 7j/7.","source":["http://51.15.3.133:8080/CONGOBUZZ/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3OTg5MDNf/ackbandal.jpg","titles":"RTACK TV"}
+
+
+
+]}]}
+
+
+
+
+
+
+
+
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://69.64.57.208/rtnc/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://102.129.84.20:8000/play/a02l/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1NjBf/rtnc1.jpg","titles":"RTNC 1"},
@@ -152,7 +141,7 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://102.129.84.20:8000/play/a02n/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"RTNC 3"},
 
-{"descriptions":"TV 3","source":["http://102.129.84.20:8000/play/a031/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3NzBf/Aubstv.jpg","titles":"AUBS TV"},
+
 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_token/10eme_rue.m3u8
 
@@ -164,7 +153,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_t
 
 {"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["http://89.163.146.99/DIGITAL-STREAM1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO / LIEN 3"}, 
 
-{"descriptions":"RTACK TV est une chchaîne aine televisee chretienne de l'église Assemblée Chrétienne de Kinshasa,  la télévavec AMI TELEVISION, conduit par Évêque Mukuna Pascal, Découvrez le contenu chrétien édifiant qui change des vies en direct gratuitement 24h/24 et 7j/7.","source":["http://51.15.3.133:8080/CONGOBUZZ/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3OTg5MDNf/ackbandal.jpg","titles":"RTACK TV"},
 
 {"descriptions":"Digital Congo est la chaine de la RDC qui emette a Kinshasa en diffusant des informations, musique et autres....","source":["http://51.15.3.133:8080/DIGITAL-CONGO/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO / LIEN 3"},
 
@@ -173,3 +161,28 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_t
 {"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["http://102.129.84.20:8000/play/a02g/index.m3u899"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"},
 
 {"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
+
+{"descriptions":"chanel medias broadcast digital: bienvenue à tous sur la page officielle de Chanel medias broadcast. visiter notre site web : http://www.cmbdigi-tv.com/","source":["http://102.129.84.20:8000/play/a02w/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3MTlf/cmbdigi.png","titles":"CMB DIGI"}
+
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"},
+
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02s/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","titles":"ANTENNE A"},
+
+{"descriptions":"Contactez-nous au : +243 851 421 220","source":["http://102.129.84.20:8000/play/a030/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","titles":"CEBS TV"},
+
+{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://vdo.pro-fhi.net:3521/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS"},
+
+{"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a033/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2Njdf/Absytv.jpg","titles":"ABSY TV"},
+
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a034/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODIzOTJf/rtga.jpg","titles":"RTEE TV"},
+
+{"descriptions":"RTEC TV est la Première chaine Thématique en RDC","source":["http://102.129.84.20:8000/play/a02o/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2Nzlf/rtectv.jpg","titles":"RTEC TV"},
+
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a01y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODcyMTYxNDRf/Eden.png","titles":"EDEN TV"},
+
+{"descriptions":"contactez-nous : Papyepiana@gmail.com et vister notre site web : nzamutv.org","source":["http://102.129.84.20:8000/play/a039/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2ODZf/nzamutv.jpeg","titles":"NZAMU"},
+
+{"descriptions":"Contactez-nous au +243 819 933 967 / kilartusmondeofficiel@gmail.com","source":["http://102.129.84.20:8000/play/a037/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2OTRf/kilartustv.png","titles":"KILARTUS"},
+
+
+
