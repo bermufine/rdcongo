@@ -82,7 +82,7 @@ NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION  DE L'ÉMANCIPATION SPIRITUELLE D
 
 {"descriptions":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo, http://Molotov.tv France, https://mybouquetafricain.tv Europe.","source":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titles":"C-DIRECT TV"},
 
-{"descriptions":"TPT TV ","source":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg3ODNf/telecongo.png","titles":"TPT TV"},
+{"descriptions":"TPT TV ","source":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MTRf/tptPointeNoire.jpeg","titles":"TPT TV"},
 
 {"descriptions":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique.
 BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV.
