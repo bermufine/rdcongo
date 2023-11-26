@@ -64,6 +64,8 @@ NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION  DE L'ÉMANCIPATION SPIRITUELLE D
 
 {"descriptions":"VOX Africa est une chaîne africaine de la panafricanisme avec des informations en temps réel","source":["https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titles":"VOX AFRICA TV"},
 
+{"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a02j/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg4NjNf/Voxtv.png","titles":"VOX"},
+
 {"descriptions":"AFROBIT TV est la chaine qui diffuse de la musique congolaise et internationale","source":["http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTIxNDE3OTFf/afrobit.jpg","titles":"AFROBIT TV"},
 
 {"descriptions":"Obosso TV est la chaine qui diffuse de la musique congolaise et internationale","source":["https://obossobroadcast.fr/otv/obossotv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titles":"OBOSSO TV"},
