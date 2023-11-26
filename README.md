@@ -98,7 +98,7 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"Ecole a Domicile Television EADTV est la premiere chaine educative au Congo RDC","source":["http://102.129.84.20:8000/play/a02d/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NTJf/eadtv.jpeg","titles":"EADTV CONGO"},
 
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a022/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg1NTJf/congolive.jpg","titles":"TV CONGO"}
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a022/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg1NTJf/congolive.jpg","titles":"TV CONGO"},
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
