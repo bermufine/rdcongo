@@ -107,7 +107,15 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 {"descriptions":"Découvrez les parcours des stars d'aujourd'hui et de demain. Responsable Administratif Direct : (+243) 900 402 547 siege.startv@gmail.com Gombe, Kinshasa contactez : siege.startv@gmail.com / direction.startv@gmail.com / secretariat.startv@gmail.com /  ou visitez-nous notre site web : http://Www.star-tv.online/","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NDVf/start.png","titles":"START TV"},
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a01y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODcyMTYxNDRf/Eden.png","titles":"EDEN TV"},
 
-{"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["http://102.129.84.20:8000/play/a02g/index.m3u899"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"}]}]}
+{"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["http://102.129.84.20:8000/play/a02g/index.m3u899"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"},
+
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a022/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"TV CONGO"},
+
+{"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
+
+{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://vdo.pro-fhi.net:3521/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS"}]}]}
+
+
 
 
 {"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a033/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2Njdf/Absytv.jpg","titles":"ABSY TV"},
@@ -115,9 +123,6 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02s/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","titles":"ANTENNE A"},
 
 {"descriptions":"Contactez-nous au : +243 851 421 220","source":["http://102.129.84.20:8000/play/a030/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","titles":"CEBS TV"},
-
-
-
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"},
 
@@ -147,25 +152,15 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://102.129.84.20:8000/play/a02n/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"RTNC 3"},
 
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a022/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"TV CONGO"},
-
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02f/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"TBNL TV"},
 
 {"descriptions":"TV 3","source":["http://102.129.84.20:8000/play/a031/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3NzBf/Aubstv.jpg","titles":"AUBS TV"},
-
-
 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_token/10eme_rue.m3u8
 
 {"descriptions":"JKM Church est une chaîne chrétienne pour l'édification des chrétiens.","source":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg2NjFf/jkmChurch.png","titles":"JKM CHURCH"},
 
-
-
-{"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
-
 {"descriptions":"Plume TV est l'une des chaines privées emettant a kinshasa avec un programme divers...","source":["http://89.163.146.99:80/puma-tv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODk0NzkwNjlf/Plume.jpg","titles":"PLUME TV"},
-
-{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://vdo.pro-fhi.net:3521/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS"},
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://89.163.146.99/RTNC_1-SRT/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1 / 4"},
 
