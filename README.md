@@ -104,7 +104,7 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02f/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"TBNL TV"},
 
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a022/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"TV CONGO"},
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a022/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg1NTJf/congolive.jpg","titles":"TV CONGO"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a032/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV"},
 
