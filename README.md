@@ -40,7 +40,7 @@ NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION  DE L'ÉMANCIPATION SPIRITUELLE D
 
 {"descriptions":"ROYAL TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo.pro-fhi.net:3259/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg1OTZf/royaltv.jpg","titles":"ROYAL TV"},
 
-{"descriptions":"Nyota TV est une chaîne privée émettant rn République Démocratique du Congo","source":["http://51.254.199.122:8080/noyaTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3NzBf/Aubstv.jpg","titles":"NYOTA TV"},
+{"descriptions":"Nyota TV est une chaîne privée émettant rn République Démocratique du Congo","source":["http://51.254.199.122:8080/noyaTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTcyNTIwMjNf/nyota.jpg","titles":"NYOTA TV"},
 
 {"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447763356181 et Web www.zaire-studio.com","source":["https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE TV"},
 
