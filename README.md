@@ -36,8 +36,6 @@ NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION  DE L'ÉMANCIPATION SPIRITUELLE D
 
 {"descriptions":"VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929","source":["http://51.15.3.133:8080/VERITETV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png","titles":"VERITE TV"},
 
-{"descriptions":"Découvrez les parcours des stars d'aujourd'hui et de demain. Responsable Administratif Direct : (+243) 900 402 547 siege.startv@gmail.com Gombe, Kinshasa contactez : siege.startv@gmail.com / direction.startv@gmail.com / secretariat.startv@gmail.com /  ou visitez-nous notre site web : http://Www.star-tv.online/","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NDVf/start.png","titles":"START TV"},
-
 {"descriptions":"Tokomi Wapi TV est l'une des chaines privées emettant a kinshasa avec un programme divers...","source":["http://89.163.146.99/TOKOMI-WAPI/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2ODM3ODVf/tokomiwapitv.jpg","titles":"TOKOMI WAPI"},
 
 {"descriptions":"ROYAL TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo.pro-fhi.net:3259/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg1OTZf/royaltv.jpg","titles":"ROYAL TV"},
@@ -52,21 +50,15 @@ NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION  DE L'ÉMANCIPATION SPIRITUELLE D
 
 {"descriptions":"NUMERICA est une une chaîne privee emettant en RDCongo en diffusant des informations, musique et Sports et autres.","source":["http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg","titles":"NUMERICA TV"},
 
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02i/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titles":"EMCI TV"},
-
 {"descriptions":"Canal Numérique  Télévisionsest la chaine congolaise qui diffusant des musique théâtres et autres","source":["http://89.163.146.99/CN-TV_CANAL/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5MzA3MjFf/Canalnumeriqimue.jpg","titles":"CANAL NUMÉRIQUE"},
 
 {"descriptions":"Canal Moliere TV la chaîne de télévision Molière est une oeuvre du Lycée Molière, Elle a été créée à l'initiative de Monsieur Léon NEMBALEMBA ESUKU de la nationalité Congolaise qui en est le propriétaire. Lors de sa création, Molière TV était dans la ligne régie d'une station thématique dans le domaine de l'éducation d'où le slogan premier l'éducation par les médias c'est le centre même de l'existence de cette télévision parce qu'elle se voulait différente à d'autres chaînes de la capitale à l'instar de SSM, RTP, RTS, RTMV, RTAE qui étaient exclusivement religieuses. A cette époque, il n'existait qu'une seule chaîne de télévision éducative CEBS, qui avait selon son prénom un programme mixte comportant l'éducation scolaire, la culture et l'information générale. La chaine Molière télévision a la ligne éditoriale généraliste d'où le slogan la chaine non alignée La création de Molière a suivi les cheminements suivants 2004 obtentions de la licence d'exploitation au ministère de poste et telecommunication. Janvier 2005, approbation et adoption de Molière T.V. comme chaîne éducative aux couleurs scolaires.","source":["http://51.254.199.122:8080/MoliereTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MDlf/moliere.jpg","titles":"MOLIERE TV"},
-
-{"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a024/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTkxOTI2MTVf/africanews.jpg","titles":"AFRICA NEWS"},
 
 {"descriptions":"Mikuba TV est l'une de chaînes télévisées de la République démocratique du Congo base à Kolwezi plein diversités des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["http://51.254.199.122:8080/MIKUBATV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAyNDQ1MDNf/mikubas.jpg","titles":"MIKUBA TV"},
 
 {"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["http://85.234.131.234:8080/ISI-BROADCAST/DIGITAL-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO"},
 
 {"descriptions":"VOX Africa est une chaîne africaine de la panafricanisme avec des informations en temps réel","source":["https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titles":"VOX AFRICA TV"},
-
-{"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a02j/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg4NjNf/Voxtv.png","titles":"VOX"},
 
 {"descriptions":"AFROBIT TV est la chaine qui diffuse de la musique congolaise et internationale","source":["http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTIxNDE3OTFf/afrobit.jpg","titles":"AFROBIT TV"},
 
@@ -83,8 +75,6 @@ NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION  DE L'ÉMANCIPATION SPIRITUELLE D
 {"descriptions":"Parole Eternele TV est une chaine chretienne de l'eglise la Borne a lubumbashi.","source":["http://85.234.131.234:8080/ISI-BROADCAST/PAROLETV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0NTJf/paroleeternel.png","titles":"PAROLE ETERNELE"},
 
 {"descriptions":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo, http://Molotov.tv France, https://mybouquetafricain.tv Europe.","source":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titles":"C-DIRECT TV"},
-
-{"descriptions":"TPT TV ","source":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MTRf/tptPointeNoire.jpeg","titles":"TPT TV"},
 
 {"descriptions":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique.
 BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV.
@@ -104,29 +94,34 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"AMEN TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens, Une chaine du ministerevAmen de l'apotre Leopold Mutombo","source":["http://89.163.146.99:80/AMEN_TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2ODkyOTlf/Amen.jpeg","titles":"AMEN TV"},
 
-{"descriptions":"Ecole a Domicile Television EADTV est la premiere chaine educative au Congo RDC","source":["http://102.129.84.20:8000/play/a02d/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NTJf/eadtv.jpeg","titles":"EADTV CONGO"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a022/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg3ODNf/telecongo.png","titles":"TELE CONGO"},
-
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://85.234.131.234:8080/ISI-BROADCAST/RTNC-1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
-{"descriptions":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","source":["https://protv.vedge.infomaniak.com/livecast/ik:protv/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","titles":"RL PRO TV"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02f/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg3Nzdf/bnltv.jpeg","titles":"BANTU NEWS"},
-
-{"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a01w/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MzBf/france24.jpeg","titles":"FRANCE 24"},
-
-{"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a02g/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02d/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING 2"},
-
-{"descriptions":"TV 3","source":["http://102.129.84.20:8000/play/a02a/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING 3"}]}]}
+{"descriptions":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","source":["https://protv.vedge.infomaniak.com/livecast/ik:protv/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","titles":"RL PRO TV"}]}]}
 
 
+{"descriptions":"Découvrez les parcours des stars d'aujourd'hui et de demain. Responsable Administratif Direct : (+243) 900 402 547 siege.startv@gmail.com Gombe, Kinshasa contactez : siege.startv@gmail.com / direction.startv@gmail.com / secretariat.startv@gmail.com /  ou visitez-nous notre site web : http://Www.star-tv.online/","source":[" http://102.129.84.20:8000/play/a02e/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NDVf/start.png","titles":"START TV"},
 
+{"descriptions":"Ecole a Domicile Television EADTV est la premiere chaine educative au Congo RDC","source":[" http://102.129.84.20:8000/play/a02d/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NTJf/eadtv.jpeg","titles":"EADTV CONGO"},
 
+{"descriptions":"TV 2","source":[" http://102.129.84.20:8000/play/a022/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg3ODNf/telecongo.png","titles":"TELE CONGO"},
 
+{"descriptions":"TV 2","source":[" http://102.129.84.20:8000/play/a02f/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg3Nzdf/bnltv.jpeg","titles":"BANTU NEWS"},
 
+{"descriptions":"TV 1","source":[" http://102.129.84.20:8000/play/a01w/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MzBf/france24.jpeg","titles":"FRANCE 24"},
+
+{"descriptions":"TV 1","source":[" http://102.129.84.20:8000/play/a02g/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING"},
+
+{"descriptions":"TV 2","source":[" http://102.129.84.20:8000/play/a02d/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING 2"},
+
+{"descriptions":"TV 3","source":[" http://102.129.84.20:8000/play/a02a/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING 3"},
+
+{"descriptions":"TPT TV ","source":[" http://102.129.84.20:8000/play/a02h/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MTRf/tptPointeNoire.jpeg","titles":"TPT TV"},
+
+{"descriptions":"TV 1","source":[" http://102.129.84.20:8000/play/a02j/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg4NjNf/Voxtv.png","titles":"VOX"},
+
+{"descriptions":"TV 1","source":[" http://102.129.84.20:8000/play/a024/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTkxOTI2MTVf/africanews.jpg","titles":"AFRICA NEWS"},
+
+{"descriptions":"TV 2","source":[" http://102.129.84.20:8000/play/a02i/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titles":"EMCI TV"},
 
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://69.64.57.208/rtnc/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
