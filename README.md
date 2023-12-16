@@ -119,65 +119,48 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"EDUC TV","source":["http://102.129.84.20:8000/play/a02x/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3MDFf/eductv.jpeg","titles":"EDUC TV"},
 
-{"descriptions":"RTGA","source":["http://102.129.84.20:8000/play/a02u/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODIzOTJf/rtga.jpg","titles":"RTGA"}
+{"descriptions":"RTGA","source":["http://102.129.84.20:8000/play/a02u/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODIzOTJf/rtga.jpg","titles":"RTGA"},
+
+{"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["http://102.129.84.20:8000/play/a02f/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"},
+
+{"descriptions":"chanel medias broadcast digital: bienvenue à tous sur la page officielle de Chanel medias broadcast. visiter notre site web : http://www.cmbdigi-tv.com/","source":["http://102.129.84.20:8000/play/a02w/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3MTlf/cmbdigi.png","titles":"CMB DIGI"},
+
+{"descriptions":"RTEC TV est la Première chaine Thématique en RDC","source":["http://102.129.84.20:8000/play/a02o/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2Nzlf/rtectv.jpg","titles":"RTEC TV"},
+
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02v/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3MTRf/heritagetv.jpeg","titles":"HERITAGE TV"},
+
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02s/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","titles":"ANTENNE A"},
+
+{"descriptions":"TPT TV ","source":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MTRf/tptPointeNoire.jpeg","titles":"TPT PLUS TV"},
+
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02i/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"},
+
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"},
+
+{"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a02p/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TESTING"},
+
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a022/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING 2"},
+
+{"descriptions":"TV 1","source":[" http://102.129.84.20:8000/play/a02g/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING"},
+
+{"descriptions":"TV 2","source":[" http://102.129.84.20:8000/play/a02d/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING 2"},
+
+{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a034/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODIzOTJf/rtga.jpg","titles":"RTEE TV"},
+
+
+{"descriptions":"TV 3","source":[" http://102.129.84.20:8000/play/a02a/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING 3"},
+
 
 ]}]}
 
 http://102.129.84.20:8000/play/a02m/index.m3u8
 rtnc 2
 
-
-
-
-http://102.129.84.20:8000/play/a02s/index.m3u8
-
-AA
-
-http://102.129.84.20:8000/play/a02f/index.m3u8
-
-Cite Davide
-
-http://102.129.84.20:8000/play/a02w/index.m3u8
-
-Cmb Digi
-
-http://102.129.84.20:8000/play/a02i/index.m3u8
-
-Congo tv
-
-http://102.129.84.20:8000/play/a02v/index.m3u8
-
-Heritage
-
-http://102.129.84.20:8000/play/a02o/index.m3u8
-
-Rtec
-
-http://102.129.84.20:8000/play/a02h/index.m3u8
-
-Tpt plus
-
-http://102.129.84.20:8000/play/a02p/index.m3u8
-
-Télé 50
-
-http://102.129.84.20:8000/play/a022/index.m3u8
-
-Afrique inconnu
-
 {"descriptions":"TV 2","source":[" http://102.129.84.20:8000/play/a022/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg3ODNf/telecongo.png","titles":"TELE CONGO"},
 
 {"descriptions":"TV 2","source":[" http://102.129.84.20:8000/play/a02f/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg3Nzdf/bnltv.jpeg","titles":"BANTU NEWS"},
 
 {"descriptions":"TV 1","source":[" http://102.129.84.20:8000/play/a01w/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MzBf/france24.jpeg","titles":"FRANCE 24"},
-
-{"descriptions":"TV 1","source":[" http://102.129.84.20:8000/play/a02g/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING"},
-
-{"descriptions":"TV 2","source":[" http://102.129.84.20:8000/play/a02d/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING 2"},
-
-{"descriptions":"TV 3","source":[" http://102.129.84.20:8000/play/a02a/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING 3"},
-
-{"descriptions":"TPT TV ","source":[" http://102.129.84.20:8000/play/a02h/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MTRf/tptPointeNoire.jpeg","titles":"TPT TV"},
 
 {"descriptions":"TV 1","source":[" http://102.129.84.20:8000/play/a02j/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg4NjNf/Voxtv.png","titles":"VOX"},
 
@@ -204,25 +187,13 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_t
 
 {"descriptions":"Digital Congo est la chaine de la RDC qui emette a Kinshasa en diffusant des informations, musique et autres....","source":["http://51.15.3.133:8080/DIGITAL-CONGO/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO / LIEN 3"},
 
-{"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["http://102.129.84.20:8000/play/a02g/index.m3u899"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"},
-
 {"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
-
-{"descriptions":"chanel medias broadcast digital: bienvenue à tous sur la page officielle de Chanel medias broadcast. visiter notre site web : http://www.cmbdigi-tv.com/","source":["http://102.129.84.20:8000/play/a02w/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3MTlf/cmbdigi.png","titles":"CMB DIGI"}
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02s/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","titles":"ANTENNE A"},
 
 {"descriptions":"Contactez-nous au : +243 851 421 220","source":["http://102.129.84.20:8000/play/a030/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","titles":"CEBS TV"},
 
 {"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://vdo.pro-fhi.net:3521/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS"},
 
 {"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a033/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2Njdf/Absytv.jpg","titles":"ABSY TV"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a034/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODIzOTJf/rtga.jpg","titles":"RTEE TV"},
-
-{"descriptions":"RTEC TV est la Première chaine Thématique en RDC","source":["http://102.129.84.20:8000/play/a02o/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2Nzlf/rtectv.jpg","titles":"RTEC TV"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a01y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODcyMTYxNDRf/Eden.png","titles":"EDEN TV"},
 
@@ -231,8 +202,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_t
 {"descriptions":"Contactez-nous au +243 819 933 967 / kilartusmondeofficiel@gmail.com","source":["http://102.129.84.20:8000/play/a037/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2OTRf/kilartustv.png","titles":"KILARTUS"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a032/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02v/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3MTRf/heritagetv.jpeg","titles":"HERITAGE TV"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02z/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0MTJf/kin24.jpg","titles":"KIN 24"},
 
