@@ -4,7 +4,7 @@
 
 {"descriptions":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","source":["https://tv.tnf-rdc.com/METANOIA-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","titles":"METANOIA TV"},
 
-{"descriptions":"Bero TV est l'une des Televisions Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["http://stream.zeno.fm/eyuiqh60p1qtv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","titles":"BERO TV"},
+{"descriptions":"Bero TV est l'une des Televisions Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["http://localhost/beroTV/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","titles":"BERO TV"},
 
 {"descriptions":"Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre,  musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["http://hopetvafrica.com:8084/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg","titles":"HOPE TV EXTRA"},
 
@@ -127,7 +127,7 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02i/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"}]}]}
 
 
-
+http://stream.zeno.fm/eyuiqh60p1qtv
 
 
 {"descriptions":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","source":["https://protv.vedge.infomaniak.com/livecast/ik:protv/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","titles":"RL PRO TV"},
