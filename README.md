@@ -44,6 +44,8 @@ NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION  DE L'ÉMANCIPATION SPIRITUELLE D
 
 {"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447763356181 et Web www.zaire-studio.com","source":["https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE TV"},
 
+{"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
+
 {"descriptions":"PSTV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://51.254.199.122:8080/PSTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"PSTV"},
 
 {"descriptions":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que,  prédications, enseignements, prières, adoration et tant d'autres","source":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By     Channel","thumbs":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titles":"CCPV TV"},
@@ -83,6 +85,8 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 {"descriptions":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique.
 BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV.
 Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","source":["https://baziktv.vedge.infomaniak.com/livecast/ik:baziktv/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NjQ4NzBf/baziktv.png","titles":"BAZIK TV"},
+
+{"descriptions":"JKM Church est une chaîne chrétienne pour l'édification des chrétiens.","source":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg2NjFf/jkmChurch.png","titles":"JKM CHURCH"},
 
 {"descriptions":"MADI TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","titles":"MADI TV"},
 
@@ -127,10 +131,21 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02i/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"}]}]}
 
 
+
+
+
+
+
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_token/10eme_rue.m3u8
+
 http://stream.zeno.fm/eyuiqh60p1qtv
 
 
 {"descriptions":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","source":["https://protv.vedge.infomaniak.com/livecast/ik:protv/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","titles":"RL PRO TV"},
+
+
+
+
 
 {"descriptions":"TV 2","source":[" http://102.129.84.20:8000/play/a02i/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titles":"EMCI TV"},
 
@@ -167,12 +182,6 @@ rtnc 2
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://102.129.84.20:8000/play/a02n/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ1MzRf/rtnc3.jpg","titles":"RTNC 3"},
 
-
-
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_token/10eme_rue.m3u8
-
-{"descriptions":"JKM Church est une chaîne chrétienne pour l'édification des chrétiens.","source":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg2NjFf/jkmChurch.png","titles":"JKM CHURCH"},
-
 {"descriptions":"Plume TV est l'une des chaines privées emettant a kinshasa avec un programme divers...","source":["http://89.163.146.99:80/puma-tv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODk0NzkwNjlf/Plume.jpg","titles":"PLUME TV"},
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://89.163.146.99/RTNC_1-SRT/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1 / 4"},
@@ -181,8 +190,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_t
 
 
 {"descriptions":"Digital Congo est la chaine de la RDC qui emette a Kinshasa en diffusant des informations, musique et autres....","source":["http://51.15.3.133:8080/DIGITAL-CONGO/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO / LIEN 3"},
-
-{"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
 
 {"descriptions":"Contactez-nous au : +243 851 421 220","source":["http://102.129.84.20:8000/play/a030/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","titles":"CEBS TV"},
 
