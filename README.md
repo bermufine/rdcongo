@@ -1,12 +1,10 @@
 {"categorie":[{"names":"Movie","videos":[{"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://69.64.57.208/rtnc/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC HD"},
 
-{"descriptions":"Hope tv africa la premiere television chretienne d'afrique emmettant depuis la ville de Johannesburg South african avec des programmes riche tels que: plusieurs emissions, desin animes, predications, journal, sports, theatre, musique, series, cinema, culturel, et autres 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://stream.hopetvafrica.com/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQyOTdf/HopeAfrica.jpg","titles":"HOPE TV AFRICA"},
+{"descriptions":"Novelas TV est une chaîne télévisée qui diffuse les Series mexicaines, Brésilien, Philippines Africains et autres...","source":["http://51.254.199.122:8080/NoveLas/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titles":"EVI TV"},
 
 {"descriptions":"Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.","source":["https://tv.tnf-rdc.com/METANOIA-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png","titles":"METANOIA TV"},
 
 {"descriptions":"Bero TV est l'une des Televisions Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["http://berosat.tech/beroTV/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","titles":"BERO TV"},
-
-{"descriptions":"Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre,  musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["http://hopetvafrica.com:8084/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg","titles":"HOPE TV EXTRA"},
 
 {"descriptions":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook;  EGG PRO TV","source":["https://cdn.mycloudstream.io/hls/live/broadcast/mgshes9q/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","titles":"EGG PRO TV"},
 
@@ -74,6 +72,8 @@ NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION  DE L'ÉMANCIPATION SPIRITUELLE D
 
 {"descriptions":"SSM TV est une chaine chretienne.","source":["http://85.234.131.234:8080/ISI-BROADCAST/SSM/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0OTlf/ssmtv.jpg","titles":"STUDIO SANGO MALAMU"},
 
+{"descriptions":"10ème Rue Television est l'une des chaines privées de la RDC qui emette a Kinshasa en diffusant des informations Politiques, musique et autres. Pour tout contact: +243 82 344 50 54....","source":["https://tv1.isi-broadcast.tech/10eme-tv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzA4NTAyOTRf/dixiemerue.png","titles":"10EME RUE TV"},
+
 {"descriptions":"Parole Eternele TV est une chaine chretienne de l'eglise la Borne a lubumbashi.","source":["http://85.234.131.234:8080/ISI-BROADCAST/PAROLETV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0NTJf/paroleeternel.png","titles":"PAROLE ETERNELE"},
 
 {"descriptions":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo, http://Molotov.tv France, https://mybouquetafricain.tv Europe.","source":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titles":"C-DIRECT TV"},
@@ -96,8 +96,6 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02g/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titles":"EMCI TV"},
 
-{"descriptions":"10ème Rue Television est l'une des chaines privées de la RDC qui emette a Kinshasa en diffusant des informations Politiques, musique et autres. Pour tout contact: +243 82 344 50 54....","source":["https://tv1.isi-broadcast.tech/10eme-tv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzA4NTAyOTRf/dixiemerue.png","titles":"10EME RUE TV"},
-
 {"descriptions":"AMEN TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens, Une chaine du ministerevAmen de l'apotre Leopold Mutombo","source":["http://89.163.146.99:80/AMEN_TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2ODkyOTlf/Amen.jpeg","titles":"AMEN TV"},
 
 {"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["http://102.129.84.20:8000/play/a02f/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"},
@@ -106,7 +104,13 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://85.234.131.234:8080/ISI-BROADCAST/RTNC-1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
+{"descriptions":"Congo World TV","source":["http://102.129.84.20:8000/play/a02i/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"},
+
 {"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TESTING"},
+
+{"descriptions":"Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre,  musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["http://hopetvafrica.com:8084/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg","titles":"HOPE TV EXTRA"},
+
+{"descriptions":"Hope tv africa la premiere television chretienne d'afrique emmettant depuis la ville de Johannesburg South african avec des programmes riche tels que: plusieurs emissions, desin animes, predications, journal, sports, theatre, musique, series, cinema, culturel, et autres 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://stream.hopetvafrica.com/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQyOTdf/HopeAfrica.jpg","titles":"HOPE TV AFRICA"},
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://102.129.84.20:8000/play/a02l/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ4ODhf/rtnc2.jpg","titles":"RTNC 2"},
 
@@ -126,9 +130,7 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02s/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","titles":"ANTENNE A"},
 
-{"descriptions":"TPT TV ","source":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MTRf/tptPointeNoire.jpeg","titles":"TPT PLUS TV"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02i/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"}]}]}
+{"descriptions":"TPT TV ","source":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MTRf/tptPointeNoire.jpeg","titles":"TPT PLUS TV"}]}]}
 
 
 
