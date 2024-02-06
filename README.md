@@ -18,7 +18,7 @@
 
 {"descriptions":"Evi TV est l'une des chaines privées emettant a kinshasa avec un programme base sur la Politique, les Series theatrales Congolais ainsi que de la musique et autres...","source":["https://stream.telepack.net/evitv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ4MjA1MjBf/evitv.png","titles":"EVI TV"},
 
-{"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://live-onetv.eu:5866/hls/Clive1.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
+{"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
 
 {"descriptions":"POURIM RTV HD
 NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION  DE L'ÉMANCIPATION SPIRITUELLE DE L'HOMME ET DE  SA FAMILLE BASE  A KINSHASA RDC","source":["https://cdn.mycloudstream.io/hls/live/broadcast/u67zmeky/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzNTY1Mzdf/Pourimtv.jpg","titles":"POURIM TV"},
@@ -91,7 +91,20 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"Congo Planet Gospel TV est une chaine privée de la RDCongo qui émette à kinshasa.","source":["https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CONGO PLANET GOSPEL"},
 
+{"descriptions":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","source":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"VOICI L'HOMME"},
+
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02g/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titles":"EMCI TV"},
+
+
+{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://player.castr.com/live_b072ea703a7111edbfe74bb80437147b/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS"},
+
+{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://stream.castr.com/632c52e09206c19bee72a6d6/live_b072ea703a7111edbfe74bb80437147b/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS 2"},
+
+{"descriptions":"TV 2","source":[https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8""],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV"},
+
+{"descriptions":"TV 2","source":["https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV 2"},
+
+{"descriptions":"TV 2","source":["https://stream.castr.com/630bd81fa9990f542884f80e/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV 3"},
 
 {"descriptions":"AMEN TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens, Une chaine du ministerevAmen de l'apotre Leopold Mutombo","source":["http://89.163.146.99:80/AMEN_TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2ODkyOTlf/Amen.jpeg","titles":"AMEN TV"},
 
@@ -105,8 +118,6 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TESTING"},
 
-{"descriptions":"ROYAL TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo.pro-fhi.net:3259/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg1OTZf/royaltv.jpg","titles":"ROYAL TV"},
-
 {"descriptions":"PROVIDENCE TV une chaîne d'éducation, exhortation de la bonne parole pour sauver les âmes en Jésus Christ, 
 comme Romains 10: 9 - 10 dit:
 9. Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé.
@@ -116,18 +127,21 @@ comme Romains 10: 9 - 10 dit:
 
 
 
+https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8
 
-
+https://live-onetv.eu:5866/hls/Clive1.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_token/10eme_rue.m3u8
-
 http://stream.zeno.fm/eyuiqh60p1qtv
+https://vdo.pro-fhi.net:3521/hybrid/play.m3u8
+http://102.129.84.20:8000/play/a032/index.m3u8
+
 
 
 {"descriptions":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","source":["https://protv.vedge.infomaniak.com/livecast/ik:protv/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","titles":"RL PRO TV"},
 
-
-
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://102.129.84.20:8000/play/a02l/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ4ODhf/rtnc2.jpg","titles":"RTNC 2"},
+
+{"descriptions":"ROYAL TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo.pro-fhi.net:3259/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg1OTZf/royaltv.jpg","titles":"ROYAL TV"},
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://102.129.84.20:8000/play/a02m/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU2MDQ4ODhf/rtnc2.jpg","titles":"RTNC 3"},
 
@@ -193,8 +207,6 @@ rtnc 2
 
 {"descriptions":"Contactez-nous au : +243 851 421 220","source":["http://102.129.84.20:8000/play/a030/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","titles":"CEBS TV"},
 
-{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://vdo.pro-fhi.net:3521/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS"},
-
 {"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a033/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2Njdf/Absytv.jpg","titles":"ABSY TV"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a01y/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODcyMTYxNDRf/Eden.png","titles":"EDEN TV"},
@@ -202,8 +214,6 @@ rtnc 2
 {"descriptions":"contactez-nous : Papyepiana@gmail.com et vister notre site web : nzamutv.org","source":["http://102.129.84.20:8000/play/a039/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2ODZf/nzamutv.jpeg","titles":"NZAMU"},
 
 {"descriptions":"Contactez-nous au +243 819 933 967 / kilartusmondeofficiel@gmail.com","source":["http://102.129.84.20:8000/play/a037/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2OTRf/kilartustv.png","titles":"KILARTUS"},
-
-{"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a032/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV"},
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02z/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0MTJf/kin24.jpg","titles":"KIN 24"},
 
