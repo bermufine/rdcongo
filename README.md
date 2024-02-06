@@ -89,7 +89,7 @@ Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazza
 
 {"descriptions":"King TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions et autres....","source":["http://89.163.146.99/KING_TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE1MjUwMzFf/kingrdc.jpg","titles":"KING TV"},
 
-{"descriptions":"Congo Planet Gospel TV est une chaine privée de la RDCongo qui émette à kinshasa.","source":["https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CONGO PLANET GOSPEL"},
+{"descriptions":"Congo Planet Gospel TV est une chaine privée de la RDCongo qui émette à kinshasa.","source":["http://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CONGO PLANET GOSPEL"},
 
 {"descriptions":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","source":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"VOICI L'HOMME"},
 
