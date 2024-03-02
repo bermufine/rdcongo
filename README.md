@@ -20,9 +20,7 @@
 
 {"descriptions":"POURIM RTV HD NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION DE L'ÉMANCIPATION SPIRITUELLE DE L'HOMME ET DE SA FAMILLE BASE A KINSHASA RDC","source":["https://cdn.mycloudstream.io/hls/live/broadcast/u67zmeky/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzNTY1Mzdf/Pourimtv.jpg","titles":"POURIM TV"},
 
-{"descriptions":"Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci","source":["https://tgn.bozztv.com/ssh101/ssh101/evtele/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titles":"EV TELE"},
-
-{"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["https://tv.tnf-rdc.com/TELE50-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
+{"descriptions":"Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci","source":["https://tgn.bozztv.com/ssh101/ssh101/evtele/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg","titles":"EV TELE"},
 
 {"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
 
@@ -30,17 +28,13 @@
 
 {"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tv.tnf-rdc.com/B-ONE-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
 
-{"descriptions":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","source":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzU2NDEwMzBf/voicilhomme.jpg","titles":"VOICI L'HOMME"},
+{"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["https://tv.tnf-rdc.com/TELE50-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
 
-{"descriptions":"Chaîne d'Informations Générales. Géopolis TV offre le temps du débat et de l’explication une chaine généraliste de la R.D.CONGO +243 995 819 665, geopolistv@gmail.com","source":["http://85.234.131.234:8080/ISI-BROADCAST/GeopoliceTV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDhf/geopolis.png","titles":"GEOPOLIS TV"},
+{"descriptions":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","source":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzU2NDEwMzBf/voicilhomme.jpg","titles":"VOICI L'HOMME"},
 
 {"descriptions":"Ecole a Domicile Television EADTV est la premiere chaine educative au Congo RDC","source":["https://ythls.armelin.one/channel/UCdBQfm4truef3mDSYHDS0ig.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NTJf/eadtv.jpeg","titles":"EADTV CONGO"},
 
-{"descriptions":"Tokomi Wapi TV est l'une des chaines privées emettant a kinshasa avec un programme divers...","source":["http://89.163.146.99/TOKOMI-WAPI/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2ODM3ODVf/tokomiwapitv.jpg","titles":"TOKOMI WAPI"},
-
 {"descriptions":"Nyota TV est une chaîne privée émettant rn République Démocratique du Congo","source":["http://51.254.199.122:8080/noyaTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTcyNTIwMjNf/nyota.jpg","titles":"NYOTA TV"},
-
-{"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447763356181 et Web www.zaire-studio.com","source":["https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE TV"},
 
 {"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
 
@@ -50,23 +44,21 @@
 
 {"descriptions":"NUMERICA est une une chaîne privee emettant en RDCongo en diffusant des informations, musique et Sports et autres.","source":["http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg","titles":"NUMERICA TV"},
 
-{"descriptions":"Canal Numérique Télévisionsest la chaine congolaise qui diffusant des musique théâtres et autres","source":["http://89.163.146.99/CN-TV_CANAL/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5MzA3MjFf/Canalnumeriqimue.jpg","titles":"CANAL NUMÉRIQUE"},
-
 {"descriptions":"Canal Moliere TV la chaîne de télévision Molière est une oeuvre du Lycée Molière, Elle a été créée à l'initiative de Monsieur Léon NEMBALEMBA ESUKU de la nationalité Congolaise qui en est le propriétaire. Lors de sa création, Molière TV était dans la ligne régie d'une station thématique dans le domaine de l'éducation d'où le slogan premier l'éducation par les médias c'est le centre même de l'existence de cette télévision parce qu'elle se voulait différente à d'autres chaînes de la capitale à l'instar de SSM, RTP, RTS, RTMV, RTAE qui étaient exclusivement religieuses. A cette époque, il n'existait qu'une seule chaîne de télévision éducative CEBS, qui avait selon son prénom un programme mixte comportant l'éducation scolaire, la culture et l'information générale. La chaine Molière télévision a la ligne éditoriale généraliste d'où le slogan la chaine non alignée La création de Molière a suivi les cheminements suivants 2004 obtentions de la licence d'exploitation au ministère de poste et telecommunication. Janvier 2005, approbation et adoption de Molière T.V. comme chaîne éducative aux couleurs scolaires.","source":["https://tv.tnf-rdc.com/MOLIERETV-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MDlf/moliere.jpg","titles":"MOLIERE TV"},
 
 {"descriptions":"Mikuba TV est l'une de chaînes télévisées de la République démocratique du Congo base à Kolwezi plein diversités des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["http://51.254.199.122:8080/MIKUBATV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAyNDQ1MDNf/mikubas.jpg","titles":"MIKUBA TV"},
 
 {"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["http://51.254.199.122:8080/DigitalCongoTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO"},
 
+{"descriptions":"AFROBEAT TV est la chaine qui diffuse de la musique congolaise et internationale","source":["https://stream.ecable.tv/afrobeats/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTIxNDE4MzZf/afrobeats.jpeg","titles":"AFROBEAT TV"},
+
+{"descriptions":"DBN TV est la chaine qui diffuse de la musique congolaise et internationale","source":["http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTIxNDE2ODNf/dbmtv.jpg","titles":"DBN TV"},
+
 {"descriptions":"VOX Africa est une chaîne africaine de la panafricanisme avec des informations en temps réel","source":["https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titles":"VOX AFRICA TV"},
 
 {"descriptions":"AFROBIT TV est la chaine qui diffuse de la musique congolaise et internationale","source":["http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTIxNDE3OTFf/afrobit.jpg","titles":"AFROBIT TV"},
 
 {"descriptions":"Obosso TV est la chaine qui diffuse de la musique congolaise et internationale","source":["https://obossobroadcast.fr/otv/obossotv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titles":"OBOSSO TV"},
-
-{"descriptions":"DBN TV est la chaine qui diffuse de la musique congolaise et internationale","source":["http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTIxNDE2ODNf/dbmtv.jpg","titles":"DBN TV"},
-
-{"descriptions":"AFROBEAT TV est la chaine qui diffuse de la musique congolaise et internationale","source":["https://stream.ecable.tv/afrobeats/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTIxNDE4MzZf/afrobeats.jpeg","titles":"AFROBEAT TV"},
 
 {"descriptions":"MISHAPI VOICE Tv est une chaîne de radio et télévision emmettant depuis la ville de Goma, a l'est de la Republique Democratique du Congo. Contactez nous contact@mishapivoicetv.top.","source":["http://51.254.199.122:8080/MISHAPI/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjkwMDE5ODdf/mishapi.png","titles":"MISHAPI VOICE"},
 
@@ -96,7 +88,15 @@
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://85.234.131.234:8080/ISI-BROADCAST/RTNC-1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
-{"descriptions":"Congo World TV","source":["http://102.129.84.20:8000/play/a02i/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"}]}]}
+{"descriptions":"Tokomi Wapi TV est l'une des chaines privées emettant a kinshasa avec un programme divers...","source":["http://89.163.146.99/TOKOMI-WAPI/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2ODM3ODVf/tokomiwapitv.jpg","titles":"TOKOMI WAPI"},
+
+{"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447763356181 et Web www.zaire-studio.com","source":["https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE TV"},
+
+{"descriptions":"Canal Numérique Télévisionsest la chaine congolaise qui diffusant des musique théâtres et autres","source":["http://89.163.146.99/CN-TV_CANAL/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5MzA3MjFf/Canalnumeriqimue.jpg","titles":"CANAL NUMÉRIQUE"},
+
+{"descriptions":"Congo World TV","source":["http://102.129.84.20:8000/play/a02i/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"},
+
+{"descriptions":"Chaîne d'Informations Générales. Géopolis TV offre le temps du débat et de l’explication une chaine généraliste de la R.D.CONGO +243 995 819 665, geopolistv@gmail.com","source":["http://85.234.131.234:8080/ISI-BROADCAST/GeopoliceTV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDhf/geopolis.png","titles":"GEOPOLIS TV"}]}]}
 
 
 
