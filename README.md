@@ -26,10 +26,7 @@
 
 {"descriptions":"Maboke TV est une chaine privee de la RDC qui diffuse des theatres, films et series congolais pour votre divertissements","source":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titles":"MABOKE TV"},
 
-{"descriptions":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com","source":["https://652da46fe4c0b.mycloudstream.io/public/oghzwwzc"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titles":"SYNTY TV"},
-
-
-
+{"descriptions":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com","source":["https://652da46fe4c0b.mycloudstream.io/public/oghzwwzc/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg","titles":"SYNTY TV"},
 
 {"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tv.tnf-rdc.com/B-ONE-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
 
