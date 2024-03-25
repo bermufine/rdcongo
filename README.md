@@ -60,6 +60,8 @@
 
 {"descriptions":"AFROBIT TV est la chaine qui diffuse de la musique congolaise et internationale","source":["http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTIxNDE3OTFf/afrobit.jpg","titles":"AFROBIT TV"},
 
+{"descriptions":"Novelas TV est une chaîne télévisée qui diffuse les Series mexicaines, Brésilien, Philippines Africains et autres...","source":["http://185.177.125.251:8080/novelastv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titles":"NOVELAS TV"},
+
 {"descriptions":"Obosso TV est la chaine qui diffuse de la musique congolaise et internationale","source":["https://obossobroadcast.fr/otv/obossotv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjA0NDdf/obosso.png","titles":"OBOSSO TV"},
 
 {"descriptions":"MISHAPI VOICE Tv est une chaîne de radio et télévision emmettant depuis la ville de Goma, a l'est de la Republique Democratique du Congo. Contactez nous contact@mishapivoicetv.top.","source":["http://51.254.199.122:8080/MISHAPI/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjkwMDE5ODdf/mishapi.png","titles":"MISHAPI VOICE"},
