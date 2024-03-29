@@ -30,6 +30,8 @@
 
 {"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tv.tnf-rdc.com/B-ONE-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
 
+{"descriptions":"Espoir TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tv.tnf-rdc.com/B-ONE-STREAM1/index.m3u8s"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA1ODg3OTFf/EspoirTV.jpg","titles":"ESPOIR TV"},
+
 {"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["https://tv.tnf-rdc.com/TELE50-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
 
 {"descriptions":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","source":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzU2NDEwMzBf/voicilhomme.jpg","titles":"VOICI L'HOMME"},
