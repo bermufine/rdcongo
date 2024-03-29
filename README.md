@@ -28,9 +28,9 @@
 
 {"descriptions":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com","source":["http://139.162.179.27:7800/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg","titles":"SYNTY TV"},
 
-{"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tv.tnf-rdc.com/B-ONE-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
+{"descriptions":"Espoir TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["http://139.162.179.27:8000/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA1ODg3OTFf/EspoirTV.jpg","titles":"ESPOIR TV"},
 
-{"descriptions":"Espoir TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tv.tnf-rdc.com/B-ONE-STREAM1/index.m3u8s"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA1ODg3OTFf/EspoirTV.jpg","titles":"ESPOIR TV"},
+{"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tv.tnf-rdc.com/B-ONE-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
 
 {"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["https://tv.tnf-rdc.com/TELE50-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
 
