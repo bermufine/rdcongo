@@ -26,8 +26,6 @@
 
 {"descriptions":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com","source":["http://139.162.179.27:7800/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg","titles":"SYNTY TV"},
 
-{"descriptions":"Espoir TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["http://139.162.179.27:8000/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA1ODg3OTFf/EspoirTV.jpg","titles":"ESPOIR TV"},
-
 {"descriptions":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV","source":["https://cdn.mycloudstream.io/hls/live/broadcast/mgshes9q/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","titles":"EGG PRO TV"},
 
 {"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tv.tnf-rdc.com/B-ONE-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
@@ -201,6 +199,8 @@ rtnc 2
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02z/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0MTJf/kin24.jpg","titles":"KIN 24"},
 
 {"descriptions":"TV 3","source":["http://102.129.84.20:8000/play/a031/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI3NzBf/Aubstv.jpg","titles":"AUBS TV"},
+
+{"descriptions":"Espoir TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["http://139.162.179.27:8000/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA1ODg3OTFf/EspoirTV.jpg","titles":"ESPOIR TV"},
 
 {"descriptions":"RTACK TV est une chchaîne aine televisee chretienne de l'église Assemblée Chrétienne de Kinshasa,  la télévavec AMI TELEVISION, conduit par Évêque Mukuna Pascal, Découvrez le contenu chrétien édifiant qui change des vies en direct gratuitement 24h/24 et 7j/7.","source":["http://51.15.3.133:8080/CONGOBUZZ/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA3OTg5MDNf/ackbandal.jpg","titles":"RTACK TV"}
 
