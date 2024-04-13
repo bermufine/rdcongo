@@ -24,6 +24,8 @@
 
 {"descriptions":"Maboke TV est une chaine privee de la RDC qui diffuse des theatres, films et series congolais pour votre divertissements","source":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titles":"MABOKE TV"},
 
+{"descriptions":"Alfajiri Télévision est une Chaîne généraliste, émettant dans la ville de likasi au n°4, boulevard de l'indépendance dans la province du haut Katanga","source":["http://139.162.179.27:7800/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA3MzEwMzlf/Alfajiri.jpg","titles":"ALFAJIRI TV"},
+
 {"descriptions":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com","source":["http://139.162.179.27:7800/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg","titles":"SYNTY TV"},
 
 {"descriptions":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV","source":["https://cdn.mycloudstream.io/hls/live/broadcast/mgshes9q/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","titles":"EGG PRO TV"},
