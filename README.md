@@ -34,6 +34,8 @@
 
 {"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["https://tv.tnf-rdc.com/TELE50-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
 
+{"descriptions":"Nyota TV  est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","source":["https://ythls.armelin.one/channel/UCYEWRYZaggmEj0lFzmwf7Jg.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA4NjgwODdf/bostra.jpeg","titles":"BOSTRA TV"},
+
 {"descriptions":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","source":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzU2NDEwMzBf/voicilhomme.jpg","titles":"VOICI L'HOMME"},
 
 {"descriptions":"Ecole a Domicile Television EADTV est la premiere chaine educative au Congo RDC","source":["https://ythls.armelin.one/channel/UCdBQfm4truef3mDSYHDS0ig.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NTJf/eadtv.jpeg","titles":"EADTV CONGO"},
