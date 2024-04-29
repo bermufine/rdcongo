@@ -4,7 +4,7 @@
 
 {"descriptions":"Novelas TV est une chaîne télévisée qui diffuse les Series mexicaines, Brésilien, Philippines Africains et autres...","source":["http://51.254.199.122:8080/NoveLas/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titles":"NOVELAS TV"},
 
-{"descriptions":"Novelas TV est une chaîne télévisée qui diffuse les Series mexicaines, Brésilien, Philippines Africains et autres...","source":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titles":"NOVELAS TV"},
+{"descriptions":"Novelas TV est une chaîne télévisée qui diffuse les Series mexicaines, Brésilien, Philippines Africains et autres...","source":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titles":"NOVELAS 2"},
 
 {"descriptions":"Hope tv africa la premiere television chretienne d'afrique emmettant depuis la ville de Johannesburg South african avec des programmes riche tels que: plusieurs emissions, desin animes, predications, journal, sports, theatre, musique, series, cinema, culturel, et autres 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://stream.hopetvafrica.com/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQyOTdf/HopeAfrica.jpg","titles":"HOPE TV AFRICA"},
 
