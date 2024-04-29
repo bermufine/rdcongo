@@ -17,33 +17,19 @@ https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitles":"By Channel
 
 {"descriptions":"Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590","source":["http://51.254.199.122:8080/bossbrothersTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg","titles":"BOSS BROTHER"},
 
-{"descriptions":"POURIM RTV HD NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION DE L'ÉMANCIPATION SPIRITUELLE DE L'HOMME ET DE SA FAMILLE BASE A KINSHASA RDC","source":["https://cdn.mycloudstream.io/hls/live/broadcast/u67zmeky/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzNTY1Mzdf/Pourimtv.jpg","titles":"POURIM TV"},
-
 {"descriptions":"Ev -Télé est une chaine de télévision à caractère humanitaire destinée à la production et à la diffusion des contenus de communication et d'information en rapport avec les actions, les problèmes de personnes vulnérables, à la formation et au divertissement de celles-ci","source":["https://tgn.bozztv.com/ssh101/ssh101/evtele/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzcyNjM1MThf/evtele.jpg","titles":"EV TELE"},
 
 {"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
 
 {"descriptions":"Maboke TV est une chaine privee de la RDC qui diffuse des theatres, films et series congolais pour votre divertissements","source":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titles":"MABOKE TV"},
 
-{"descriptions":"Alfajiri Télévision est une Chaîne généraliste, émettant dans la ville de likasi au n°4, boulevard de l'indépendance dans la province du haut Katanga","source":["http://139.162.179.27:7800/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA3MzEwMzlf/Alfajiri.jpg","titles":"ALFAJIRI TV"},
-
-{"descriptions":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com","source":["http://139.162.179.27:7800/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg","titles":"SYNTY TV"},
-
-{"descriptions":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV","source":["https://cdn.mycloudstream.io/hls/live/broadcast/mgshes9q/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","titles":"EGG PRO TV"},
-
-{"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tv.tnf-rdc.com/B-ONE-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
+{"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tnt-television.com/B-ONE-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
 
 {"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["http://51.254.199.122:8080/tele50/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
 
 {"descriptions":"Nyota TV  est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","source":["https://ythls.armelin.one/channel/UCYEWRYZaggmEj0lFzmwf7Jg.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA4NjgwODdf/bostra.jpeg","titles":"BOSTRA TV"},
 
-{"descriptions":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","source":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzU2NDEwMzBf/voicilhomme.jpg","titles":"VOICI L'HOMME"},
-
-{"descriptions":"Ecole a Domicile Television EADTV est la premiere chaine educative au Congo RDC","source":["https://ythls.armelin.one/channel/UCdBQfm4truef3mDSYHDS0ig.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NTJf/eadtv.jpeg","titles":"EADTV CONGO"},
-
 {"descriptions":"Nyota TV est une chaîne privée émettant rn République Démocratique du Congo","source":["http://51.254.199.122:8080/noyaTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTcyNTIwMjNf/nyota.jpg","titles":"NYOTA TV"},
-
-{"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
 
 {"descriptions":"PSTV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://51.254.199.122:8080/PSTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"PSTV"},
 
@@ -59,7 +45,11 @@ https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitles":"By Channel
 
 {"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["http://51.254.199.122:8080/DigitalCongoTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO"},
 
+{"descriptions":"MADI TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","titles":"MADI TV"},
+
 {"descriptions":"AFROBEAT TV est la chaine qui diffuse de la musique congolaise et internationale","source":["https://stream.ecable.tv/afrobeats/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTIxNDE4MzZf/afrobeats.jpeg","titles":"AFROBEAT TV"},
+
+{"descriptions":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo, http://Molotov.tv France, https://mybouquetafricain.tv Europe.","source":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titles":"C-DIRECT TV"},
 
 {"descriptions":"DBN TV est la chaine qui diffuse de la musique congolaise et internationale","source":["http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTIxNDE2ODNf/dbmtv.jpg","titles":"DBN TV"},
 
@@ -73,17 +63,25 @@ https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitles":"By Channel
 
 {"descriptions":"SSM TV est une chaine chretienne.","source":["https://tv.tnf-rdc.com/SSM-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0OTlf/ssmtv.jpg","titles":"STUDIO SANGO MALAMU"},
 
-{"descriptions":"10ème Rue Television est l'une des chaines privées de la RDC qui emette a Kinshasa en diffusant des informations Politiques, musique et autres. Pour tout contact: +243 82 344 50 54....","source":["http://89.163.146.99/10eme-tv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzA4NTAyOTRf/dixiemerue.png","titles":"10EME RUE TV"},
-
 {"descriptions":"Parole Eternele TV est une chaine chretienne de l'eglise la Borne a lubumbashi.","source":["http://85.234.131.234:8080/ISI-BROADCAST/PAROLETV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0NTJf/paroleeternel.png","titles":"PAROLE ETERNELE"},
 
-{"descriptions":"C-direct TV est 1ère chaîne mondiale des deux Congo !, Freebox 449, Canal+ 334, Easy TV 3 Congo, http://Molotov.tv France, https://mybouquetafricain.tv Europe.","source":["http://51.254.199.122:8080/cdirectTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk5MzE2NjRf/cdirect.jpg","titles":"C-DIRECT TV"},
+{"descriptions":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","source":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzU2NDEwMzBf/voicilhomme.jpg","titles":"VOICI L'HOMME"},
+
+{"descriptions":"Alfajiri Télévision est une Chaîne généraliste, émettant dans la ville de likasi au n°4, boulevard de l'indépendance dans la province du haut Katanga","source":["http://139.162.179.27:7800/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA3MzEwMzlf/Alfajiri.jpg","titles":"ALFAJIRI TV"},
+
+{"descriptions":"POURIM RTV HD NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION DE L'ÉMANCIPATION SPIRITUELLE DE L'HOMME ET DE SA FAMILLE BASE A KINSHASA RDC","source":["https://cdn.mycloudstream.io/hls/live/broadcast/u67zmeky/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzNTY1Mzdf/Pourimtv.jpg","titles":"POURIM TV"},
+
+{"descriptions":"Nyota TV  est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","source":["https://ythls.armelin.one/channel/UCYEWRYZaggmEj0lFzmwf7Jg.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA4NjgwODdf/bostra.jpeg","titles":"BOSTRA TV"},
+
+{"descriptions":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com","source":["http://139.162.179.27:7800/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg","titles":"SYNTY TV"},
+
+{"descriptions":"Ecole a Domicile Television EADTV est la premiere chaine educative au Congo RDC","source":["https://ythls.armelin.one/channel/UCdBQfm4truef3mDSYHDS0ig.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NTJf/eadtv.jpeg","titles":"EADTV CONGO"},
+
+{"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
 
 {"descriptions":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","source":["https://baziktv.vedge.infomaniak.com:443/livecast/ik:bazikrumba/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NjQ2MTlf/bazikrumba.jpg","titles":"BAZIK RUMBA TV"},
 
 {"descriptions":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","source":["https://baziktv.vedge.infomaniak.com/livecast/ik:baziktv/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NjQ4NzBf/baziktv.png","titles":"BAZIK TV"},
-
-{"descriptions":"MADI TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","titles":"MADI TV"},
 
 {"descriptions":"King TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions et autres....","source":["http://89.163.146.99/KING_TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE1MjUwMzFf/kingrdc.jpg","titles":"KING TV"},
 
@@ -98,6 +96,10 @@ https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitles":"By Channel
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://85.234.131.234:8080/ISI-BROADCAST/RTNC-1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
 {"descriptions":"Tokomi Wapi TV est l'une des chaines privées emettant a kinshasa avec un programme divers...","source":["http://89.163.146.99/TOKOMI-WAPI/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2ODM3ODVf/tokomiwapitv.jpg","titles":"TOKOMI WAPI"},
+
+{"descriptions":"10ème Rue Television est l'une des chaines privées de la RDC qui emette a Kinshasa en diffusant des informations Politiques, musique et autres. Pour tout contact: +243 82 344 50 54....","source":["http://89.163.146.99/10eme-tv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzA4NTAyOTRf/dixiemerue.png","titles":"10EME RUE TV"},
+
+{"descriptions":"EGG PRO TV est la chaine numerique qui emette à Kinshasa en diffusant des informations, musique et Sports et autres L'AVENIR DE LA TÉLÉVISION NUMÉRIQUE. Pour tout contact eggpronet@gmail.com; Tel +243 89 80 89 939 / Youtube et Facebook; EGG PRO TV","source":["https://cdn.mycloudstream.io/hls/live/broadcast/mgshes9q/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ1NDA2NzJf/eggpro.jpg","titles":"EGG PRO TV"},
 
 {"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447763356181 et Web www.zaire-studio.com","source":["https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE TV"},
 
