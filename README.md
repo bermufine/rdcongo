@@ -35,9 +35,11 @@ https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitles":"By Channel
 
 {"descriptions":"Nyota TV est une chaîne privée émettant rn République Démocratique du Congo","source":["http://51.254.199.122:8080/noyaTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTcyNTIwMjNf/nyota.jpg","titles":"NYOTA TV"},
 
-{"descriptions":"PSTV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://51.254.199.122:8080/PSTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"PSTV"},
-
 {"descriptions":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","source":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titles":"CCPV TV"},
+
+{"descriptions":"Trace Kitoko est une une chaîne spécialisée aux musiques qui diffuse des musiques congolaise, africaines rumba, ndombolo et international...","source":["http://185.59.221.131:8081/live/tracekitoko/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODYyMTUxNDBf/kitoko.jpeg","titles":"TRACE KITOKO"},
+
+{"descriptions":"TV 2","source":["http://185.59.221.131:8081/live/emci/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titles":"EMCI TV"},
 
 {"descriptions":"Groupe Emmanuel Télévision est une chaîne de télévision généraliste dont la programmation, non thématique et destinée au public le plus large, comprend tous les types d'émissions, aussi bien des émissions d'information (journaux télévisés, magazines et reportages) que des émissions de divertissement de toutes sortes (séries télévisées, films, jeux télévisés, sports)","source":["http://139.162.176.133:8080/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA5MjkxNDNf/GroupeEmmanuel.jpg","titles":"GROUPE EMMANUEL"},
 
@@ -46,6 +48,8 @@ https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitles":"By Channel
 {"descriptions":"Canal Moliere TV la chaîne de télévision Molière est une oeuvre du Lycée Molière, Elle a été créée à l'initiative de Monsieur Léon NEMBALEMBA ESUKU de la nationalité Congolaise qui en est le propriétaire. Lors de sa création, Molière TV était dans la ligne régie d'une station thématique dans le domaine de l'éducation d'où le slogan premier l'éducation par les médias c'est le centre même de l'existence de cette télévision parce qu'elle se voulait différente à d'autres chaînes de la capitale à l'instar de SSM, RTP, RTS, RTMV, RTAE qui étaient exclusivement religieuses. A cette époque, il n'existait qu'une seule chaîne de télévision éducative CEBS, qui avait selon son prénom un programme mixte comportant l'éducation scolaire, la culture et l'information générale. La chaine Molière télévision a la ligne éditoriale généraliste d'où le slogan la chaine non alignée La création de Molière a suivi les cheminements suivants 2004 obtentions de la licence d'exploitation au ministère de poste et telecommunication. Janvier 2005, approbation et adoption de Molière T.V. comme chaîne éducative aux couleurs scolaires.","source":["http://51.254.199.122:8080/MoliereTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MDlf/moliere.jpg","titles":"MOLIERE TV"},
 
 {"descriptions":"Mikuba TV est l'une de chaînes télévisées de la République démocratique du Congo base à Kolwezi plein diversités des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["http://51.254.199.122:8080/MIKUBATV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAyNDQ1MDNf/mikubas.jpg","titles":"MIKUBA TV"},
+
+{"descriptions":"PSTV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://51.254.199.122:8080/PSTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","titles":"PSTV"},
 
 {"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["http://51.254.199.122:8080/DigitalCongoTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO"},
 
@@ -159,7 +163,7 @@ http://102.129.84.20:8000/play/a032/index.m3u8
 
 {"descriptions":"TPT TV ","source":["http://102.129.84.20:8000/play/a02h/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY2Mjg5MTRf/tptPointeNoire.jpeg","titles":"TPT PLUS TV"}
 
-{"descriptions":"TV 2","source":[" http://102.129.84.20:8000/play/a02i/index.m3u8 "],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titles":"EMCI TV"},
+
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a022/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TV TESTING 2"},
 
