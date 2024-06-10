@@ -49,7 +49,7 @@ https://tnt-television.com/METANOIA-STREAM1/index.m3u8"],"subtitles":"By Channel
 
 {"descriptions":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","source":["https://helga.iptv2022.com/sh/rlpro_tv/index.m3u8?filter.tracks=a1v1v2v3v4"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","titles":"RL PRO TV"},
 
-{"descriptions":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com.","source":["https://live-hls-qunv.livepush.io/live_cdn/emZOKvFNdrEPfhZ2/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg","titles":"SYNTY TV"},   
+{"descriptions":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com.","source":["https://helga.iptv2022.com/sh/SYNTY_TV/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3v4"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg","titles":"SYNTY TV"},  
 
 
 {"descriptions":"NUMERICA est une une chaîne privee emettant en RDCongo en diffusant des informations, musique et Sports et autres.","source":["http://89.163.146.99:80/NUMERICA/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQ0MDgwMTVf/numericas.jpg","titles":"NUMERICA TV"},
