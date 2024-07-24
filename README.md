@@ -30,9 +30,11 @@
 
 {"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tnt-television.com/B-ONE-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
 
+{"descriptions":"Actu Ngolo TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://helga.iptv2022.com/ACTU_NGOLO_TV_HD/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODE3Nzc4MTNf/ActuNgolo.jpg","titles":"ACTU NGOLO TV"},
+
 {"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["http://185.59.221.131:8081/live/tele50/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
 
-{"descriptions":"Nyota TV  est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","source":["https://ythls.armelin.one/channel/UCYEWRYZaggmEj0lFzmwf7Jg.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA4NjgwODdf/bostra.jpeg","titles":"BOSTRA TV"},
+{"descriptions":"Bostra TV  est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","source":["https://ythls.armelin.one/channel/UCYEWRYZaggmEj0lFzmwf7Jg.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfODA4NjgwODdf/bostra.jpeg","titles":"BOSTRA TV"},
 
 {"descriptions":"Antenne A est une chaine privee de la RDCongo.","source":["http://185.59.221.131:8081/live/antennea/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI2MDhf/antenneA.png","titles":"ANTENNE A"},
 
