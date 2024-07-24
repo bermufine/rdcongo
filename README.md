@@ -4,11 +4,11 @@
 
 {"descriptions":"Novelas TV est une chaîne télévisée qui diffuse les Series mexicaines, Brésilien, Philippines Africains et autres...","source":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","titles":"NOVELAS 3"},
 
-{"description":"NINA NOVELAS est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres... pour votre divertissement","sources":["http://185.59.221.131:8081/live/ninatv/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18zMDM4MzAxMDNf/nina.jpeg","title":"NINA NOVELAS"},
+{"descriptions":"NINA NOVELAS est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres... pour votre divertissement","source":["http://185.59.221.131:8081/live/ninatv/playlist.m3u8"],"subtitles":"All Channel","thumbs":"https://od.lk/s/M18zMDM4MzAxMDNf/nina.jpeg","titles":"NINA NOVELAS"},
 
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://145.239.5.177:8080/149/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV"},
+{"descriptions":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","source":["http://145.239.5.177:8080/149/index.m3u8"],"subtitles":"All Channel","thumbs":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titles":"NOVELAS TV"},
 
-{"description":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sources":["http://51.254.199.122:8080/NoveLas/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS 2"},
+{"descriptions":"Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","source":["http://51.254.199.122:8080/NoveLas/index.m3u8"],"subtitles":"All Channels","thumbs":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titles":"NOVELAS 2"},
 
 {"descriptions":"Hope tv africa la premiere television chretienne d'afrique emmettant depuis la ville de Johannesburg South african avec des programmes riche tels que: plusieurs emissions, desin animes, predications, journal, sports, theatre, musique, series, cinema, culturel, et autres 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","source":["https://stream.hopetvafrica.com/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODc4MTQyOTdf/HopeAfrica.jpg","titles":"HOPE TV AFRICA"},
 
