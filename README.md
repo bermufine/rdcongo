@@ -26,6 +26,8 @@
 
 {"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
 
+{"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["https://stream.berosat.live:19360/citedavid-tv/citedavid-tv.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"},
+
 {"descriptions":"Maboke TV est une chaine privee de la RDC qui diffuse des theatres, films et series congolais pour votre divertissements","source":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titles":"MABOKE TV"},
 
 {"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tnt-television.com/B-ONE-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
